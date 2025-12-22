@@ -1,5 +1,6 @@
 # Anupam [Sharma] | Academic Portfolio
 
+<img src="profile.jpg" width="150" align="right" style="border-radius: 10px; margin-left: 20px;">
 ## About Me
 I am an Energy Engineer pursuing research at the intersection of Power Systems and Cybersecurity. My work focuses on making renewable energy grids more resilient against cyber-physical threats.
 
@@ -13,4 +14,4 @@ I am an Energy Engineer pursuing research at the intersection of Power Systems a
  🛠 Skills
 * Energy Modeling: SAM, SOLTRACE, MATLAB.
 * Cybersecurity: Network Security, Python (Scikit-learn).
-* <img src="profile.jpg" width="150" align="right" style="border-radius: 10px; margin-left: 20px;">
+  
