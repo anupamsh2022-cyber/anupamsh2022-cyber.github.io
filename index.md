@@ -1,4 +1,4 @@
-<img src="profile.jpg" width="180" align="left" style="border-radius: 10px; margin-left: 20px;">
+<img src="profile.jpg" width="260" align="left" style="border-radius: 10px; margin-left: 20px;">
 <br clear="left">
 # Anupam Sharma | Academic Portfolio
 
