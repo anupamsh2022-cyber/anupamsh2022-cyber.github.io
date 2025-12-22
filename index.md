@@ -6,19 +6,16 @@ title: Home
 <img src="profile.jpg" width="180" align="right" style="border-radius: 10px; margin-left: 20px;">
 
 # Anupam Sharma | Academic Portfolio
-<br clear="right">
-
 
 I am an Energy Engineer pursuing research at the intersection of Power Systems and Cybersecurity. My work focuses on making renewable energy grids more resilient against cyber-physical threats.
 
- 🔬 Research Projects
- Smart Grid Resilience with AI
+### 🔬 Research Projects
+* **Smart Grid Resilience with AI:** Developing frameworks to detect and mitigate false data injection in renewable energy systems.
 
+### 📄 Documents
+* [View Master's Transcript](transcript.pdf)
+* [Download Academic CV](CV.pdf)
 
- 📄 Documents
-* [View Master's Transcript ](https://drive.google.com/file/d/1wghNhcBVAc0jC6igDb7UANTd2bufFYbZ/view?usp=drive_link)
-
- 🛠 Skills
-* Energy Modeling: SAM, SOLTRACE, MATLAB.
-* Cybersecurity: Network Security, Python (Scikit-learn).
-  
+### 🛠️ Skills
+* **Energy Modeling:** SAM, SOLTRACE, MATLAB.
+* **Cybersecurity:** Network Security, Python (Scikit-learn).
