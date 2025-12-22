@@ -1,4 +1,3 @@
-![Anupam Sharma](profile.jpg)
 
 # Anupam Sharma | Academic Portfolio
 
