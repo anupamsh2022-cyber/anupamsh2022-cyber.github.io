@@ -1,4 +1,6 @@
+<img src="profile.jpg" width="180" align="right" style="border-radius: 10px; margin-left: 20px;">
 
+# Anupam [Sharma] | Academic Portfolio
 # Anupam Sharma | Academic Portfolio
 
 
