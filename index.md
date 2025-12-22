@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 <img src="profile.jpg" width="180" align="left" style="border-radius: 10px; margin-left: 20px; border: none;">
 
 <br clear="left">
