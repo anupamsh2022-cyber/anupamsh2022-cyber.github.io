@@ -13,7 +13,7 @@ I am an Energy Engineer pursuing research at the intersection of Power Systems a
 ### 🛠️ Skills
 * Energy Modeling: SAM, SOLTRACE, MATLAB.
 * Cybersecurity: Network Security, Python (Scikit-learn).
-* 
-📖 Teaching Portfolio
-* Courses Taught: Electrical Circuits & Networks, Engineering Mathematics III
+
+### 📖 Teaching Portfolio
+* Courses Taught: Electrical Circuits & Networks [EVE 201], Engineering Mathematics III [EBS 105] 
 * Pedagogy:Committed to active learning and student-centric mentoring.
