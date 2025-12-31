@@ -1,6 +1,6 @@
 <img src="profile.jpg" width="200" align="left" style="border-radius: 10px; margin-left: 20px;">
 <br clear="left">
-# Academic Portfolio
+# Assistant Professor | Chanakya University | Bengaluru | karnataka | India
 
 I am an Energy Engineer pursuing research at the intersection of Power Systems and Cybersecurity. My work focuses on making renewable energy grids more resilient against cyber-physical threats.
 
