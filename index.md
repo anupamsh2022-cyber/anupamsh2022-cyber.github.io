@@ -17,3 +17,6 @@ I am an Energy Engineer pursuing research at the intersection of Power Systems a
 ### 📖 Teaching Portfolio
 * Courses Taught: Electrical Circuits & Networks [EVE 201], Engineering Mathematics III [EBS 105] 
 * Pedagogy:Committed to active learning and student-centric mentoring.
+
+![Photo with my Friend Dr Amey Agharkar ](Y_HR3985.JPG)
+*Engaging  during inaugaration of Counselling Cell at Chanakya University.*
