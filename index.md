@@ -19,4 +19,4 @@ I am an Energy Engineer pursuing research at the intersection of Power Systems a
 * Pedagogy:Committed to active learning and student-centric mentoring.
 
 ![Photo with my Friend Dr Amey Agharkar ](Y_HR3985.JPG)
-*Engaging  during inaugaration of Counselling Cell at Chanakya University.*
+*Engaging  with Dr. Amey Agharkar during inauguration of Counselling Cell at Chanakya University.*
