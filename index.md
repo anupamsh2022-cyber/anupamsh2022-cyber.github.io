@@ -28,9 +28,7 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 ### 🧪 Student Lab Experiment
 <video width="100%" height="auto" controls style="border-radius: 8px;">
   <source src="Thanushree.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
----
+
 
 ### 🤝 Professional Activities
 ![Photo with my Friend Dr Amey Agharkar](Y_HR3985.JPG)
