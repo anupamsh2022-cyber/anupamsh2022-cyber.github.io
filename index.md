@@ -14,7 +14,8 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 * **Smart Grid Resilience with AI:** Developing frameworks to detect and mitigate false data injection in renewable energy systems.
 
 ### 📄 Documents
-* [View Master's Transcript](https://drive.google.com/file/d/1wghNhcBVAc0jC6igDb7UANTd2bufFYbZ/view?usp=drive_link)
+* [View Master's Transcript](https://drive.google.com/file/d/1b6ItVG8U-A4hYZOGlgmvOKtvTcOuiLSV/view?usp=sharing)
+* [View Master's Thesis](https://drive.google.com/file/d/1wghNhcBVAc0jC6igDb7UANTd2bufFYbZ/view?usp=drive_link)
 
 ### 🛠️ Skills
 * **Energy Modeling:** SAM, SOLTRACE, MATLAB.
