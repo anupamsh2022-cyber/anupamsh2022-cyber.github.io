@@ -29,7 +29,12 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 <video width="100%" height="auto" controls style="border-radius: 8px;">
   <source src="Thanushree.mp4" type="video/mp4">
 
+<br clear="all">
 
 ### 🤝 Professional Activities
+
 ![Photo with my Friend Dr Amey Agharkar](Y_HR3985.JPG)
-*Engaging with Dr. Amey Agharkar during inauguration of Counselling Cell at Chanakya University.*
+
+*Engaging with Dr. Amey Agharkar during the inauguration of the Counselling Cell at Chanakya University.*
+
+
