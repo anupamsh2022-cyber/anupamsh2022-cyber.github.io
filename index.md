@@ -1,5 +1,5 @@
 
-[About](#anupam-sharma) | [Research](#-research-projects) | [Skills](#-skills) | [Teaching](#-teaching-portfolio)
+
 ---
 # Anupam Sharma
 
