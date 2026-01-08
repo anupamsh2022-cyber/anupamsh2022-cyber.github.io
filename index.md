@@ -33,7 +33,8 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 
 * **[Prosumer Microgrid Load Managemnt in Smart Cities for Optimal Energy Consumption]** | 
       
-![Prosumer Centric Society](Figure4.png)
+     ![Prosumer Centric Society](Figure4.png)
+     
 
 * **[Project Title]** | *Tech: Python, Scikit-learn*
     * Developed a lightweight intrusion detection system for Modbus/TCP protocols.
