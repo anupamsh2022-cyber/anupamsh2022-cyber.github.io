@@ -31,8 +31,7 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 
 ### 🏗️ Selected Past Projects
 
-* **[Prosumer microgrid load managemnt in smart cities for optimal energy consumption]** | 
-    * BITS Pilani - La Trobe University Joint sponsered project (Asian Smart Cities Research Innovation Network).
+* **[Prosumer Microgrid Load Managemnt in Smart Cities for Optimal Energy Consumption]** | 
       
 ![Prosumer Centric Society](Figure4.png)
 
