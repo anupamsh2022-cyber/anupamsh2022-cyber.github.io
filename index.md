@@ -25,15 +25,6 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 * **Courses Taught:** Electrical Circuits & Networks [EVE 201], Engineering Mathematics III [EBS 105] 
 * **Pedagogy:** Committed to active learning and student-centric mentoring.
 
-### 🧪 Student Lab Experiment
-
-<video width="100%" height="auto" controls style="border-radius: 8px;">
-  <source src="Thanushree.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<br clear="all">
-
 ---
 
 ### 🤝 Professional Activities
