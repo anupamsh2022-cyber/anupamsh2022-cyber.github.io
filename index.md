@@ -31,7 +31,8 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 
 ### 🏗️ Selected Past Projects
 
-* **[Project Title]** | *Tech: MATLAB, SAM*
-    * Designed a 100kW rooftop solar system simulation with 95% accuracy in yield prediction.
+* **[Prosumer microgrid load managemnt in smart cities for optimal energy consumption]** | 
+    * BITS Pilani - La Trobe University Joint sponsered project (Asian Smart Cities Research Innovation Network).
+    * 
 * **[Project Title]** | *Tech: Python, Scikit-learn*
     * Developed a lightweight intrusion detection system for Modbus/TCP protocols.
