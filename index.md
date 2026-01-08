@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Anupam Sharma
 ---
-
+# Anupam Sharma
 <img src="profile.jpg" width="180" align="left" style="border-radius: 10px; margin-right: 20px; margin-bottom: 10px;">
 
 Assistant Professor | Chanakya University | Bengaluru (KA) | India
