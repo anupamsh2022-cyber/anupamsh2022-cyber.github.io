@@ -21,6 +21,14 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 * **Courses Taught:** Electrical Circuits & Networks [EVE 201], Engineering Mathematics III [EBS 105] 
 * **Pedagogy:** Committed to active learning and student-centric mentoring.
 
+### 📊 Research Impact
+| Metric | Value | Source |
+| :--- | :--- | :--- |
+| **Citations** | 150+ | [Google Scholar](https://scholar.google.com/citations?user=qLdXot0AAAAJ&hl=en) |
+| **h-index** | 5 | [Google Scholar]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=qLdXot0AAAAJ&hl=en)) |
+| **Publications** | 12 | [ResearchGate](https://www.researchgate.net/profile/Anupam-S) |
+
+> *Last updated: January 2026*
 ---
 
 ### 🤝 Professional Activities
@@ -29,12 +37,7 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 
 *Engaging with Dr. Amey Agharkar during the inauguration of the Counselling Cell at Chanakya University.*
 
-### 🏗️ Selected Past Projects
-
-* **[Prosumer Microgrid Load Managemnt in Smart Cities for Optimal Energy Consumption]** | 
-      
-     ![Prosumer Centric Society](Figure4.png)
      
 
-* **[Project Title]** | *Tech: Python, Scikit-learn*
-    * Developed a lightweight intrusion detection system for Modbus/TCP protocols.
+
+    
