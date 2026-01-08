@@ -1,3 +1,6 @@
+
+[About](#anupam-sharma) | [Research](#-research-projects) | [Skills](#-skills) | [Teaching](#-teaching-portfolio)
+---
 # Anupam Sharma
 
 <img src="profile.jpg" width="180" align="left" style="border-radius: 10px; margin-right: 20px; margin-bottom: 10px;">
