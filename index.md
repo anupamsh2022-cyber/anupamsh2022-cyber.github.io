@@ -28,3 +28,10 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 ![Photo with my Friend Dr Amey Agharkar](Y_HR3985.JPG)
 
 *Engaging with Dr. Amey Agharkar during the inauguration of the Counselling Cell at Chanakya University.*
+
+### 🏗️ Selected Past Projects
+
+* **[Project Title]** | *Tech: MATLAB, SAM*
+    * Designed a 100kW rooftop solar system simulation with 95% accuracy in yield prediction.
+* **[Project Title]** | *Tech: Python, Scikit-learn*
+    * Developed a lightweight intrusion detection system for Modbus/TCP protocols.
