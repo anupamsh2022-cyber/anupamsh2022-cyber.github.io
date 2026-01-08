@@ -34,7 +34,7 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 * **[Prosumer microgrid load managemnt in smart cities for optimal energy consumption]** | 
     * BITS Pilani - La Trobe University Joint sponsered project (Asian Smart Cities Research Innovation Network).
       
-![Prosumer Centric Society](Figure 4.png)
+![Prosumer Centric Society](Figure4.png)
 
 * **[Project Title]** | *Tech: Python, Scikit-learn*
     * Developed a lightweight intrusion detection system for Modbus/TCP protocols.
