@@ -114,9 +114,93 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 <h2 id="research">🔬 Research Projects</h2>
 * **Smart Grid Resilience with AI:** Developing frameworks to detect and mitigate false data injection in renewable energy systems.
 
-<h2 id="skills">🛠️ Skills</h2>
-* **Energy Modeling:** SAM, SOLTRACE, MATLAB.
-* **Cybersecurity:** Network Security, Python (Scikit-learn).
+<h2 id="skills">🛠️ Interdisciplinary Expertise</h2>
+
+<style>
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  .skill-card {
+    background-color: #24283b;
+    border: 1px solid #3d446d;
+    padding: 15px;
+    border-radius: 10px;
+    transition: 0.3s;
+  }
+
+  .skill-card:hover {
+    border-color: #4da6ff;
+    transform: translateY(-5px);
+  }
+
+  .skill-header {
+    color: #4da6ff;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .skill-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.9em;
+    color: #cbd5e0;
+  }
+
+  .skill-list li {
+    margin-bottom: 5px;
+    padding-left: 15px;
+    position: relative;
+  }
+
+  .skill-list li::before {
+    content: "▹";
+    position: absolute;
+    left: 0;
+    color: #4da6ff;
+  }
+</style>
+
+<div class="skills-grid">
+  <div class="skill-card">
+    <div class="skill-header">⚡ Electrical Engineering</div>
+    <ul class="skill-list">
+      <li>Power Systems Analysis</li>
+      <li>Smart Grid Resilience</li>
+      <li>Renewable Energy Integration</li>
+      <li>Software: SAM, SOLTRACE</li>
+    </ul>
+  </div>
+
+  <div class="skill-card">
+    <div class="skill-header">🔢 Mathematical Sciences</div>
+    <ul class="skill-list">
+      <li>Engineering Mathematics</li>
+      <li>Cyber-Physical Modeling</li>
+      <li>Python-based Visualization</li>
+      <li>Statistical Analysis</li>
+    </ul>
+  </div>
+
+  <div class="skill-card">
+    <div class="skill-header">🧠 Humanities & Social Sciences</div>
+    <ul class="skill-list">
+      <li>Philosophy of Consciousness</li>
+      <li>Educational Psychology</li>
+      <li>Student-Centric Mentoring</li>
+      <li>Interdisciplinary Pedagogy</li>
+    </ul>
+  </div>
+</div>
+
 
 <h2 id="teaching">📖 Teaching Portfolio</h2>
 
