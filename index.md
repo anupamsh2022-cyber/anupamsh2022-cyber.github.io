@@ -126,18 +126,51 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 
 <h2 id="activities">🤝 Professional Activities</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <img src="Y_HR3985.JPG" class="activity-img" alt="Counselling Cell Inauguration">
-    <p style="font-size: 0.9em; margin-top: 10px;">
+<style>
+  /* Grid container for equal sizing */
+  .activity-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+    margin-top: 20px;
+  }
+
+  .activity-card {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Forces images to be equal height and width */
+  .fixed-size-img {
+    width: 100%;
+    height: 220px; /* Fixed height for uniformity */
+    object-fit: cover; /* Crops image to fill the box perfectly */
+    border-radius: 10px;
+    border: 1px solid #3d446d;
+    background-color: #24283b;
+  }
+
+  .activity-caption {
+    font-size: 0.9em;
+    margin-top: 12px;
+    line-height: 1.5;
+    color: #e0e0e0;
+  }
+</style>
+
+<div class="activity-grid">
+  <div class="activity-card">
+    <img src="Y_HR3985.JPG" class="fixed-size-img" alt="Counselling Cell Inauguration">
+    <p class="activity-caption">
       <i>Engaging with Dr. Amey Agharkar during the inauguration of the Counselling Cell at Chanakya University.</i>
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 300px;">
-    <img src="UGC.png" class="activity-img" alt="Goa University FDP">
-    <p style="font-size: 0.9em; margin-top: 10px;">
-      <i>Engaging with faculty members during 124th Faculty Induction Program Guru Dakshata (Online) at Goa University.</i>
+  <div class="activity-card">
+    <img src="UGC.png" class="fixed-size-img" alt="Goa University FDP">
+    <p class="activity-caption">
+      <i>Engaging with faculty members during 124th Guru Dakshata (Online) Faculty Development Program at Goa University.</i>
     </p>
   </div>
 </div>
+
