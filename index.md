@@ -201,42 +201,44 @@ title: Anupam Sharma
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qLdXot0AAAAJ&hl=en) 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Anupam-S)
 
-I am an Energy Engineer pursuing research at the intersection of **Power Systems and Cybersecurity**. My work focuses on making renewable energy grids more resilient against cyber-physical threats.
+I am an Energy Engineer and Researcher dedicated to the harmony of complex systems. My work exists at the intersection of Power Systems and Cybersecurity, where I explore the mathematical and philosophical foundations of resilience. I believe that a truly "smart" grid must not only be efficient but also robust enough to withstand the unpredictable challenges of a digital age. Beyond the circuits, I am deeply interested in how human consciousness and psychological patterns influence our interaction with technology and education.
 
 <hr>
 
 <h2 id="research">🔬 Research Projects</h2>
-* **Smart Grid Resilience with AI:** Developing frameworks to detect and mitigate false data injection in renewable energy systems.
 
-<h2 id="skills">🛠️ Interdisciplinary Expertise</h2>
-<div class="skills-grid">
-  <div class="skill-card">
-    <div class="skill-header">⚡ Electrical Engineering</div>
-    <ul class="skill-list">
-      <li>Power Systems Analysis</li>
-      <li>Smart Grid Resilience</li>
-      <li>Renewable Energy Integration</li>
-      <li>Software: SAM, SOLTRACE</li>
-    </ul>
-  </div>
-  <div class="skill-card">
-    <div class="skill-header">🔢 Mathematical Sciences</div>
-    <ul class="skill-list">
-      <li>Engineering Mathematics</li>
-      <li>Cyber-Physical Modeling</li>
-      <li>Python-based Visualization</li>
-      <li>Statistical Analysis</li>
-    </ul>
-  </div>
-  <div class="skill-card">
-    <div class="skill-header">🧠 Humanities & Social Sciences</div>
-    <ul class="skill-list">
-      <li>Philosophy of Consciousness</li>
-      <li>Educational Psychology</li>
-      <li>Student-Centric Mentoring</li>
-      <li>Interdisciplinary Pedagogy</li>
-    </ul>
-  </div>
+<style>
+  .research-card {
+    background: #24283b;
+    border: 1px solid #3d446d;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  .research-tag {
+    color: #4da6ff;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 5px;
+  }
+</style>
+
+<div class="research-card">
+  <span class="research-tag">Cyber-Physical Security</span>
+  <h3 style="margin:0 0 10px 0; color:#fff !important;">Smart Grid Resilience with Artificial Intelligence</h3>
+  <p style="font-size:0.95em; color:#cbd5e0; margin:0;">
+    Developing advanced frameworks to detect and mitigate <b>False Data Injection Attacks (FDIA)</b> in renewable-heavy energy systems. By combining machine learning with power system physics, I aim to create "self-healing" grids that maintain integrity even under sophisticated cyber-physical threats.
+  </p>
+</div>
+
+<div class="research-card">
+  <span class="research-tag">Interdisciplinary Systems</span>
+  <h3 style="margin:0 0 10px 0; color:#fff !important;">Cognitive Frameworks for Engineering Ethics</h3>
+  <p style="font-size:0.95em; color:#cbd5e0; margin:0;">
+    An exploratory study into how the <b>Philosophy of Consciousness</b> and cognitive psychology can be used to model ethical decision-making in autonomous energy management systems. This project bridges the gap between technical reliability and human-centric values.
+  </p>
 </div>
 
 <h2 id="pedagogy">📖 Pedagogy</h2>
