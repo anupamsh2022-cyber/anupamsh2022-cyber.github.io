@@ -178,11 +178,11 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
     </div>
   </div>
   <div class="activity-card">
-    <img src="Neurocon.jpg" class="high-res-img" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
+    <img src="Neurocon.jpg" class="Neurocon.jpg" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
     <div class="activity-desc"><i>Engaging with Prof. CA Tomy (University of Hyderabad) during NeuroConsciousness Workshop at IISc .</i></div>
   </div>
   <div class="activity-card">
-    <img src="Ganesha.jpg" class="high-res-img" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
+    <img src="Ganesha.jpg" class="Ganesha.jpg" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
     <div class="activity-desc"><i>Engaging with Research Scholars and Masters Students at IISc during Ganesh Chaturthi Festival.</i></div>
   </div>
   <div class="activity-card">
