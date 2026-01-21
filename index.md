@@ -22,7 +22,7 @@ hr { border: 0; border-top: 1px solid #3d446d; margin: 25px 0; }
 
 
 
-<img src="profile.jpg" width="180" align="left" style="border-radius: 10px; margin-right: 20px; margin-bottom: 10px;">
+<img src="profile.jpg" width="180" align="middle" style="border-radius: 10px; margin-right: 20px; margin-bottom: 10px;">
 
 Assistant Professor | Chanakya University | Bengaluru (KA) | India
 
