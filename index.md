@@ -174,7 +174,11 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
   <div class="activity-column">
     <img src="UGC.png" class="equal-height-img" alt="Goa University FDP">
     <div class="caption">
-      Engaging with faculty members during 124th Guru Dakshata (Online) Faculty Development Program at Goa University.
+      Engaging with faculty members during 124th Guru Dakshata (Online) Faculty Induction Program at Goa University.
     </div>
+  </div>
+  <div class="activity-card">
+    <img src="Neurocon.jpg" class="high-res-img" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
+    <div class="activity-desc"><i>Official Certificate: 124th Guru Dakshata Faculty Induction Program.</i></div>
   </div>
 </div>
