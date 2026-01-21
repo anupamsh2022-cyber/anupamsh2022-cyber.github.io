@@ -205,91 +205,55 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 <h2 id="teaching">📖 Pedagogy</h2>
 
 <style>
-  .pedagogy-wrapper {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    margin-bottom: 30px;
-  }
-
-  .philosophy-statement {
+  .pedagogy-highlight {
     background: linear-gradient(135deg, #24283b 0%, #1a1c2c 100%);
-    border: 1px solid #3d446d;
     border-left: 5px solid #4da6ff;
     padding: 25px;
-    border-radius: 8px;
-  }
-
-  .pedagogy-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-  }
-
-  .method-box {
-    background-color: #24283b;
-    padding: 20px;
     border-radius: 10px;
+    margin-bottom: 20px;
     border: 1px solid #3d446d;
   }
 
-  .method-box h3 {
-    margin-top: 0;
-    font-size: 1.1em;
-    color: #4da6ff !important;
-    display: flex;
-    align-items: center;
-    gap: 10px;
+  .framework-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
   }
 
-  .course-tag {
-    background: #1a1c2c;
-    color: #4da6ff;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 0.8em;
+  .framework-pill {
+    background: #24283b;
     border: 1px solid #4da6ff;
-    margin-right: 8px;
+    color: #ffffff;
+    padding: 12px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 0.85em;
+    font-weight: 600;
+    transition: 0.3s;
+  }
+
+  .framework-pill:hover {
+    background: #4da6ff;
+    color: #1a1c2c;
   }
 </style>
 
-<div class="pedagogy-wrapper">
-  <div class="philosophy-statement">
-    <p style="margin: 0; line-height: 1.7; font-size: 1.05em;">
-      My <b>Interdisciplinary Pedagogy</b> bridges the gap between technical rigor and humanistic insight. By integrating <b>Mathematical Sciences</b> with <b>Cognitive Psychology</b>, I aim to create a learning environment where complex engineering concepts are simplified through logical scaffolding and student-centric mentoring.
-    </p>
-  </div>
-
-  <div class="pedagogy-grid">
-    <div class="method-box">
-      <h3>🎯 Methodologies</h3>
-      <ul style="padding-left: 18px; color: #cbd5e0; font-size: 0.95em; line-height: 1.6;">
-        <li><b>Active Learning:</b> Engaging students via real-world power system simulations.</li>
-        <li><b>Holistic Mentoring:</b> Supporting academic growth through the lens of educational psychology.</li>
-        <li><b>Visualization:</b> Using Python and MATLAB to translate abstract equations into visual models.</li>
-      </ul>
-    </div>
-
-    <div class="method-box">
-      <h3>📚 Course Delivery</h3>
-      <div style="margin-bottom: 15px;">
-        <small style="color: #82aaff; text-transform: uppercase;">Current Semester</small>
-        <div style="margin-top: 5px;">
-          <div><span class="course-tag">CODE</span> <b>Course Name 1</b></div>
-          <div style="margin-top:5px;"><span class="course-tag">CODE</span> <b>Course Name 2</b></div>
-        </div>
-      </div>
-      <div>
-        <small style="color: #82aaff; text-transform: uppercase;">Previous Semester</small>
-        <div style="margin-top: 5px;">
-          <div><span class="course-tag">EVE 201</span> <b>Electrical Circuits</b></div>
-          <div style="margin-top:5px;"><span class="course-tag">EBS 105</span> <b>Eng. Mathematics III</b></div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="pedagogy-highlight">
+  <p style="margin: 0; line-height: 1.8; font-size: 1.1em;">
+    My approach is rooted in <b>Interdisciplinary Pedagogy</b>, where I bridge the gap between <b>Mathematical Rigor</b> and <b>Cognitive Psychology</b>. I focus on "Logic-First" learning—simplifying complex power systems through the lens of human cognitive patterns and structured scaffolding.
+  </p>
 </div>
 
+<div class="framework-grid">
+  <div class="framework-pill">🧠 Cognitive Scaffolding</div>
+  <div class="framework-pill">⚡ Technical Rigor</div>
+  <div class="framework-pill">🤝 Holistic Mentoring</div>
+  <div class="framework-pill">📊 Visual Analytics</div>
+</div>
+
+<p style="margin-top: 20px; font-size: 0.9em; color: #cbd5e0; text-align: center; font-style: italic;">
+  "Teaching is the art of simplifying complexity without losing precision."
+</p>
 
 <style>
   .course-container {
