@@ -3,24 +3,30 @@ layout: default
 ---
 
 <style>
-  body {
+  /* Main Background */
+  body, .main-content, header {
     background-color: #1a1c2c !important;
     color: #ffffff !important;
   }
-  
-  header, .main-content h1, .main-content h2, .main-content h3 {
-    color: #ffffff !important;
+
+  /* Fix for the white boxes/tags under your photo */
+  table, tr, td, span, .label {
+    background-color: #24283b !important; /* Slightly lighter navy for contrast */
+    color: #ffffff !important;            /* White text */
+    border: 1px solid #3d446d !important;
   }
 
-  .main-content {
-    color: #e0e0e0 !important;
+  /* Heading colors */
+  h1, h2, h3, h4 {
+    color: #4da6ff !important; /* Blue accent for headers */
   }
 
-  /* Adjusting links for better visibility on dark background */
+  /* Link visibility */
   a {
-    color: #4da6ff !important;
+    color: #82aaff !important;
   }
 </style>
+
 # Anupam Sharma
 <img src="profile.jpg" width="180" align="left" style="border-radius: 10px; margin-right: 20px; margin-bottom: 10px;">
 
