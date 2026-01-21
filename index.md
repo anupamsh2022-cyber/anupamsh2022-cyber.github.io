@@ -1,23 +1,26 @@
-style>
-  body {
-    background-color: #1a1c2c !important; /* Professional Deep Navy */
-    color: #ffffff !important;           /* Pure white text */
-  }
-  
-  header {
-    border-bottom: 1px solid #30363d;   /* Subtle divider for the header */
-    padding-bottom: 20px;
-  }
-
-  /* Keeps your 'Assistant Professor' tags readable on dark bg */
-  .btn, .label, span {
-    color: #ffffff;
-  }
-</style>
-
 ---
 layout: default
 ---
+
+<style>
+  body {
+    background-color: #1a1c2c !important;
+    color: #ffffff !important;
+  }
+  
+  header, .main-content h1, .main-content h2, .main-content h3 {
+    color: #ffffff !important;
+  }
+
+  .main-content {
+    color: #e0e0e0 !important;
+  }
+
+  /* Adjusting links for better visibility on dark background */
+  a {
+    color: #4da6ff !important;
+  }
+</style>
 # Anupam Sharma
 <img src="profile.jpg" width="180" align="left" style="border-radius: 10px; margin-right: 20px; margin-bottom: 10px;">
 
