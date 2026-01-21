@@ -1,30 +1,23 @@
 ---
 layout: default
+title: Anupam Sharma | Portfolio
 ---
 
 <style>
-  /* Main Background */
   body, .main-content, header {
     background-color: #1a1c2c !important;
     color: #ffffff !important;
   }
-
-  /* Fix for the white boxes/tags under your photo */
   table, tr, td, span, .label {
-    background-color: #24283b !important; /* Slightly lighter navy for contrast */
-    color: #ffffff !important;            /* White text */
+    background-color: #24283b !important;
+    color: #ffffff !important;
     border: 1px solid #3d446d !important;
+    padding: 5px 10px !important;
   }
-
-  /* Heading colors */
-  h1, h2, h3, h4 {
-    color: #4da6ff !important; /* Blue accent for headers */
-  }
-
-  /* Link visibility */
-  a {
-    color: #82aaff !important;
-  }
+  h1, h2, h3 { color: #4da6ff !important; border-bottom: none !important; }
+  a { color: #82aaff !important; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  hr { border: 0; border-top: 1px solid #3d446d; margin: 25px 0; }
 </style>
 
 # Anupam Sharma
