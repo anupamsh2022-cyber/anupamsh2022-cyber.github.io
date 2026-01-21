@@ -71,11 +71,29 @@ title: Anupam Sharma
     object-fit: cover;
   }
 
-  /* 5. Skills Grid */
+  /* 5. Research Cards */
+  .research-card {
+    background: #24283b;
+    border: 1px solid #3d446d;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  .research-tag {
+    color: #4da6ff;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  /* 6. Skills Grid */
   .skills-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 20px;
+    margin-top: 20px;
   }
 
   .skill-card {
@@ -92,7 +110,7 @@ title: Anupam Sharma
   .skill-list li { margin-bottom: 5px; padding-left: 15px; position: relative; }
   .skill-list li::before { content: "▹"; position: absolute; left: 0; color: #4da6ff; }
 
-  /* 6. Deep Pedagogy Section */
+  /* 7. Deep Pedagogy Section */
   .pedagogy-depth-box {
     background: linear-gradient(135deg, #1a1c2c 0%, #24283b 100%);
     border: 1px solid #3d446d;
@@ -111,19 +129,6 @@ title: Anupam Sharma
     line-height: 1.5;
   }
 
-  .pedagogy-manifesto {
-    line-height: 1.8;
-    font-size: 1.05em;
-    color: #cbd5e0;
-  }
-
-  .depth-keywords {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin-top: 25px;
-  }
-
   .depth-tag {
     background: rgba(77, 166, 255, 0.1);
     border: 1px solid rgba(77, 166, 255, 0.3);
@@ -132,11 +137,13 @@ title: Anupam Sharma
     border-radius: 20px;
     font-size: 0.85em;
     font-weight: 500;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
   }
 
-  /* 7. Course Portfolio */
+  /* 8. Course Portfolio */
   .course-container { display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px; }
-
   .semester-box {
     flex: 1;
     min-width: 300px;
@@ -145,7 +152,6 @@ title: Anupam Sharma
     padding: 15px;
     border-radius: 10px;
   }
-
   .course-tag {
     display: inline-block;
     background: #1a1c2c;
@@ -156,14 +162,13 @@ title: Anupam Sharma
     margin-right: 5px;
   }
 
-  /* 8. Activities Grid */
+  /* 9. Activities Grid */
   .activity-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 25px;
     margin-top: 20px;
   }
-
   .activity-img-standard {
     width: 100%;
     height: 250px;
@@ -173,7 +178,6 @@ title: Anupam Sharma
     border: 1px solid #3d446d;
     transition: 0.3s;
   }
-
   .activity-img-standard:hover { border-color: #4da6ff; transform: scale(1.02); }
   .activity-desc { margin-top: 12px; font-size: 0.85em; font-style: italic; color: #cbd5e0; }
 </style>
@@ -201,29 +205,11 @@ title: Anupam Sharma
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qLdXot0AAAAJ&hl=en) 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Anupam-S)
 
-I am an Energy Engineer and Researcher dedicated to the harmony of complex systems. My work exists at the intersection of Power Systems and Cybersecurity, where I explore the mathematical and philosophical foundations of resilience. I believe that a truly "smart" grid must not only be efficient but also robust enough to withstand the unpredictable challenges of a digital age. Beyond the circuits, I am deeply interested in how human consciousness and psychological patterns influence our interaction with technology and education.
+I am an Energy Engineer and Researcher dedicated to the harmony of complex systems. My work exists at the intersection of **Power Systems and Cybersecurity**, where I explore the mathematical and philosophical foundations of resilience. I believe that a truly "smart" grid must not only be efficient but also robust enough to withstand the unpredictable challenges of a digital age. Beyond the circuits, I am deeply interested in how human consciousness and psychological patterns influence our interaction with technology and education.
 
 <hr>
 
 <h2 id="research">🔬 Research Projects</h2>
-
-<style>
-  .research-card {
-    background: #24283b;
-    border: 1px solid #3d446d;
-    padding: 20px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-  }
-  .research-tag {
-    color: #4da6ff;
-    font-size: 0.8em;
-    font-weight: bold;
-    text-transform: uppercase;
-    display: block;
-    margin-bottom: 5px;
-  }
-</style>
 
 <div class="research-card">
   <span class="research-tag">Cyber-Physical Security</span>
@@ -241,14 +227,47 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
   </p>
 </div>
 
+<h2 id="skills">🛠️ Interdisciplinary Expertise</h2>
+<div class="skills-grid">
+  <div class="skill-card">
+    <div class="skill-header">⚡ Electrical Engineering</div>
+    <ul class="skill-list">
+      <li>Power Systems Analysis</li>
+      <li>Smart Grid Resilience</li>
+      <li>Renewable Energy Integration</li>
+      <li>Software: SAM, SOLTRACE</li>
+    </ul>
+  </div>
+  <div class="skill-card">
+    <div class="skill-header">🔢 Mathematical Sciences</div>
+    <ul class="skill-list">
+      <li>Engineering Mathematics</li>
+      <li>Cyber-Physical Modeling</li>
+      <li>Python-based Visualization</li>
+      <li>Statistical Analysis</li>
+    </ul>
+  </div>
+  <div class="skill-card">
+    <div class="skill-header">🧠 Humanities & Social Sciences</div>
+    <ul class="skill-list">
+      <li>Philosophy of Consciousness</li>
+      <li>Educational Psychology</li>
+      <li>Student-Centric Mentoring</li>
+      <li>Interdisciplinary Pedagogy</li>
+    </ul>
+  </div>
+</div>
+
 <h2 id="pedagogy">📖 Pedagogy</h2>
+
+
 
 <div class="pedagogy-depth-box">
   <span class="philosophy-quote">
     "Education is not the filling of a pail, but the lighting of a fire—a fire that must illuminate both the circuit and the soul."
   </span>
   
-  <div class="pedagogy-manifesto">
+  <div class="pedagogy-manifesto" style="line-height: 1.8; font-size: 1.05em; color: #cbd5e0;">
     My practice of <b>Interdisciplinary Pedagogy</b> is rooted in the belief that technical systems are reflections of human logic and universal order. I bridge <b>Mathematical Rigor</b> with <b>Cognitive Psychology</b> to guide students beyond rote memorization into the realm of 'Deep Understanding.' 
     <br><br>
     I view the classroom as a space for <b>Holistic Mentoring</b>, where we don't just solve for variables, but cultivate the resilience and philosophical clarity required to navigate the complexities of life and technology alike.
@@ -263,17 +282,16 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
 </div>
 
 <h2 id="teaching-portfolio">📚 Teaching Portfolio</h2>
-
 <div class="course-container">
   <div class="semester-box">
-    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Current Semester (Jan – May 2026)</div>
+    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Current Semester (2026)</div>
     <ul style="list-style:none; padding:0; font-size:0.95em;">
       <li><span class="course-tag">EEC 206</span> <b>Power & Energy Engineering</b></li>
       <li style="margin-top:10px;"><span class="course-tag">EVE 208</span> <b>Analog Systems</b></li>
     </ul>
   </div>
   <div class="semester-box">
-    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Previous Semester (Aug – Dec 2025)</div>
+    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Previous Semester (2025)</div>
     <ul style="list-style:none; padding:0; font-size:0.95em;">
       <li><span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b></li>
       <li style="margin-top:10px;"><span class="course-tag">EBS 105</span> <b>Engineering Mathematics III</b></li>
