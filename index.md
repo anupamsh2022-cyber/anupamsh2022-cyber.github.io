@@ -127,70 +127,74 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 <h2 id="activities">🤝 Professional Activities</h2>
 
 <style>
-  /* Container to keep images on the same row with equal height */
-  .activity-row {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-    align-items: stretch; /* Forces containers to be equal height */
-    flex-wrap: wrap; 
+  /* Unified Grid for all activities and certificates */
+  .activity-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
     margin-top: 20px;
   }
 
-  .activity-column {
-    flex: 1;
-    min-width: 300px;
+  .activity-item {
     display: flex;
     flex-direction: column;
   }
 
-  /* High Quality + Same Height */
-  .equal-height-img {
+  /* Keeps all images sharp and exactly the same height */
+  .activity-img-standard {
     width: 100%;
-    height: 300px; /* Adjust this value to your preferred height */
-    object-fit: contain; /* Keeps original quality/ratio without cropping */
-    background-color: #1a1c2c; /* Matches your body background */
+    height: 250px; /* Uniform height for a clean row look */
+    object-fit: contain; 
+    background-color: #1a1c2c;
     border-radius: 8px;
     border: 1px solid #3d446d;
+    transition: transform 0.3s ease;
+  }
+  
+  .activity-img-standard:hover {
+    transform: scale(1.02);
+    border-color: #4da6ff;
   }
 
-  .caption {
+  .activity-desc {
     margin-top: 12px;
-    font-size: 0.9em;
-    line-height: 1.4;
+    font-size: 0.85em;
+    line-height: 1.5;
     font-style: italic;
     color: #cbd5e0;
   }
 </style>
 
-<div class="activity-row">
-  <div class="activity-column">
-    <img src="Y_HR3985.JPG" class="equal-height-img" alt="Counselling Cell">
-    <div class="caption">
-      Engaging with Dr. Amey Agharkar during the inauguration of the Counselling Cell at Chanakya University.
-    </div>
+<div class="activity-grid">
+  <div class="activity-item">
+    <img src="Y_HR3985.JPG" class="activity-img-standard" alt="Counselling Cell">
+    <div class="activity-desc">Engaging with Dr. Amey Agharkar during the inauguration of the Counselling Cell at Chanakya University.</div>
   </div>
 
-  <div class="activity-column">
-    <img src="UGC.png" class="equal-height-img" alt="Goa University FDP">
-    <div class="caption">
-      Engaging with faculty members during 124th Guru Dakshata (Online) Faculty Induction Program at Goa University.
-    </div>
+  <div class="activity-item">
+    <img src="UGC.png" class="activity-img-standard" alt="Goa University FDP">
+    <div class="activity-desc">124th Guru Dakshata (Online) Faculty Induction Program at Goa University.</div>
   </div>
-  <div class="activity-card">
-    <img src="Neurocon.jpg" class="Neurocon.jpg" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
-    <div class="activity-desc"><i>Engaging with Prof. CA Tomy (University of Hyderabad) during NeuroConsciousness Workshop at IISc .</i></div>
+
+  <div class="activity-item">
+    <img src="Neurocon.jpg" class="activity-img-standard" alt="NeuroConsciousness">
+    <div class="activity-desc">Engaging with Prof. CA Tomy (University of Hyderabad) during NeuroConsciousness Workshop at IISc.</div>
   </div>
-  <div class="activity-card">
-    <img src="Ganesha.jpg" class="Ganesha.jpg" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
-    <div class="activity-desc"><i>Engaging with Research Scholars and Masters Students at IISc during Ganesh Chaturthi Festival.</i></div>
+
+  <div class="activity-item">
+    <img src="Ganesha.jpg" class="activity-img-standard" alt="IISc Festival">
+    <div class="activity-desc">Engaging with Research Scholars and Masters Students at IISc during Ganesh Chaturthi Festival.</div>
   </div>
-  <div class="activity-card">
-    <img src="Ganesha.jpg" class="SIP.jpg" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
-    <div class="activity-desc"><i>During Student Induction Program at Chanakya University along with Prof. Akhila.</i></div>
+
+  <div class="activity-item">
+    <img src="SIP.jpg" class="activity-img-standard" alt="Student Induction">
+    <div class="activity-desc">During Student Induction Program at Chanakya University along with Prof. Akhila.</div>
   </div>
-  <div class="activity-card">
-    <img src="Ganesha.jpg" class="Lovish.jpg" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
-    <div class="activity-desc"><i>Engaging with Lovish Raheja (Doctoral student at IIT Bombay-Monash Research Academy) during Manotsava 2025.</i></div>
+
+  <div class="activity-item">
+    <img src="Lovish.jpg" class="activity-img-standard" alt="Manotsava">
+    <div class="activity-desc">Engaging with Lovish Raheja (Doctoral student at IIT Bombay-Monash) during Manotsava 2025.</div>
   </div>
 </div>
+
+
