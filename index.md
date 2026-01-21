@@ -159,10 +159,10 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
     <div class="semester-title">Current Semester (Jan – May 2026)</div>
     <ul style="list-style: none; padding-left: 0;">
       <li style="margin-bottom: 10px;">
-        <span class="course-tag">EEC206</span> <b>Power & Energy Engineering </b>
+        <span class="course-tag">EEC 206</span> <b>Power & Energy Engineering </b>
       </li>
       <li>
-        <span class="course-tag">EVE208</span> <b>Analog Systems</b>
+        <span class="course-tag">EVE 208</span> <b>Analog Systems</b>
       </li>
     </ul>
   </div>
