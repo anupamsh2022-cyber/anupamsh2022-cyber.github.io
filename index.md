@@ -4,60 +4,19 @@ title: Anupam Sharma | Portfolio
 ---
 
 <style>
-  /* 1. Universal Dark Theme Fix */
-  body, .main-content, header {
-    background-color: #1a1c2c !important;
-    color: #ffffff !important;
-  }
-
-  /* 2. THE PHOTO FIX: Removes white sliver and sets professional size */
-  .profile-section {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 20px;
-    margin-bottom: 30px;
-    background: transparent !important;
-  }
-
-  .profile-img {
-    width: 160px !important;    /* Reduced size as requested */
-    height: auto;
-    border-radius: 12px;
-    border: 2px solid #4da6ff;
-    display: block;
-    /* This ensures the image covers the area and hides white edges */
-    object-fit: cover !important; 
-    /* This removes the white background 'box' behind the image */
-    background-color: transparent !important; 
-  }
-
-  /* 3. Professional Tag Buttons */
-  .prof-info h2 {
-    margin: 0 !important;
-    color: #4da6ff !important;
-    border: none !important;
-  }
-
-  .tag-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-top: 10px;
-  }
-
-  .tag {
-    background-color: #24283b !important;
-    color: #ffffff !important;
-    border: 1px solid #3d446d !important;
-    padding: 4px 12px;
-    border-radius: 4px;
-    font-size: 0.85em;
-  }
-
-  h2, h3 { color: #4da6ff !important; border-bottom: 1px solid #30363d !important; padding-top: 10px; }
-  a { color: #82aaff !important; text-decoration: none; }
-  hr { border: 0; border-top: 1px solid #3d446d; margin: 25px 0; }
+body, .main-content, header { background-color: #1a1c2c !important;
+color: #ffffff !important;
+}
+table, tr, td, span, .label {
+background-color: #24283b !important;
+color: #ffffff !important;
+border: 1px solid #3d446d !important;
+padding: 5px 10px !important;
+}
+h1, h2, h3 { color: #4da6ff !important; border-bottom: none !important; }
+a { color: #82aaff !important; text-decoration: none; }
+a:hover { text-decoration: underline; }
+hr { border: 0; border-top: 1px solid #3d446d; margin: 25px 0; }
 </style>
 
 
