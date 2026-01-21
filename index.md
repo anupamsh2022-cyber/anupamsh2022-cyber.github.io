@@ -225,37 +225,67 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 
 <h2 id="pedagogy">📖 Pedagogy</h2>
 
+<style>
+  .pedagogy-depth-box {
+    background: linear-gradient(135deg, #1a1c2c 0%, #24283b 100%);
+    border: 1px solid #3d446d;
+    border-top: 4px solid #4da6ff;
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    position: relative;
+    overflow: hidden;
+  }
 
+  .philosophy-quote {
+    font-size: 1.2em;
+    font-style: italic;
+    color: #82aaff;
+    margin-bottom: 20px;
+    display: block;
+    line-height: 1.5;
+  }
 
-<div class="pedagogy-highlight">
-  <p style="margin: 0; line-height: 1.8; font-size: 1.1em;">
-    My approach is rooted in <b>Interdisciplinary Pedagogy</b>, where I bridge the gap between <b>Mathematical Rigor</b> and <b>Cognitive Psychology</b>. I focus on "Logic-First" learning—simplifying complex power systems through the lens of human cognitive patterns and structured scaffolding.
-  </p>
-</div>
+  .pedagogy-manifesto {
+    line-height: 1.8;
+    font-size: 1.05em;
+    color: #cbd5e0;
+  }
 
-<div class="framework-grid">
-  <div class="framework-pill">🧠 Cognitive Scaffolding</div>
-  <div class="framework-pill">⚡ Technical Rigor</div>
-  <div class="framework-pill">🤝 Holistic Mentoring</div>
-  <div class="framework-pill">📊 Visual Analytics</div>
-</div>
+  .depth-keywords {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 25px;
+  }
 
-<h2 id="teaching-portfolio">📚 Teaching Portfolio</h2>
+  .depth-tag {
+    background: rgba(77, 166, 255, 0.1);
+    border: 1px solid rgba(77, 166, 255, 0.3);
+    color: #4da6ff;
+    padding: 6px 15px;
+    border-radius: 20px;
+    font-size: 0.85em;
+    font-weight: 500;
+  }
+</style>
 
-<div class="course-container">
-  <div class="semester-box">
-    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Current Semester (Jan – May 2026)</div>
-    <ul style="list-style:none; padding:0; font-size:0.95em;">
-      <li><span class="course-tag">EEC 206</span> <b>Power & Energy Engineering</b></li>
-      <li style="margin-top:10px;"><span class="course-tag">EVE 208</span> <b>Analog Systems</b></li>
-    </ul>
+<div class="pedagogy-depth-box">
+  <span class="philosophy-quote">
+    "Education is not the filling of a pail, but the lighting of a fire—a fire that must illuminate both the circuit and the soul."
+  </span>
+  
+  <div class="pedagogy-manifesto">
+    My practice of <b>Interdisciplinary Pedagogy</b> is rooted in the belief that technical systems are reflections of human logic and universal order. I bridge <b>Mathematical Rigor</b> with <b>Cognitive Psychology</b> to guide students beyond rote memorization into the realm of 'Deep Understanding.' 
+    <br><br>
+    I view the classroom as a space for <b>Holistic Mentoring</b>, where we don't just solve for variables, but cultivate the resilience and philosophical clarity required to navigate the complexities of life and technology alike.
   </div>
-  <div class="semester-box">
-    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Previous Semester (Aug – Dec 2025)</div>
-    <ul style="list-style:none; padding:0; font-size:0.95em;">
-      <li><span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b></li>
-      <li style="margin-top:10px;"><span class="course-tag">EBS 105</span> <b>Engineering Mathematics III</b></li>
-    </ul>
+
+  <div class="depth-keywords">
+    <span class="depth-tag">✧ Existential Clarity</span>
+    <span class="depth-tag">✧ Cognitive Scaffolding</span>
+    <span class="depth-tag">✧ Ethical Engineering</span>
+    <span class="depth-tag">✧ Conscious Mentorship</span>
   </div>
 </div>
 
