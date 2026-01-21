@@ -4,46 +4,47 @@ title: Anupam Sharma | Portfolio
 ---
 
 <style>
-  /* Base Theme Colors */
+  /* Base Background */
   body, .main-content, header {
     background-color: #1a1c2c !important;
     color: #ffffff !important;
   }
 
-  /* Professional Image Sizing */
+  /* Fixed Profile Image Sizing & Placement */
+  .profile-container {
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+  }
+
   .profile-img {
-    width: 220px;
-    border-radius: 12px;
-    border: 3px solid #3d446d;
-    margin-bottom: 15px;
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid #4da6ff;
     display: block;
   }
 
-  /* Tag Styling (No more squash) */
-  .tag-container {
+  /* Modern Tag Buttons (Replaces the broken white boxes) */
+  .tag-wrapper {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
-    margin-bottom: 25px;
-  }
-  .tag {
-    background-color: #24283b !important;
-    color: #ffffff !important;
-    border: 1px solid #4da6ff !important;
-    padding: 6px 15px;
-    border-radius: 6px;
-    font-size: 0.9em;
-    font-weight: 500;
+    gap: 8px;
+    margin-top: 15px;
   }
 
-  h2, h3 { 
-    color: #4da6ff !important; 
-    border-bottom: 1px solid #30363d !important; 
-    padding-top: 15px;
+  .prof-tag {
+    background: #24283b !important;
+    color: #ffffff !important;
+    padding: 5px 12px;
+    border-radius: 4px;
+    border: 1px solid #3d446d;
+    font-size: 0.85em;
   }
+
+  /* Header and Link Colors */
+  h2, h3 { color: #4da6ff !important; border-bottom: 1px solid #30363d !important; padding-top: 10px; }
   a { color: #82aaff !important; text-decoration: none; }
 </style>
-
 <img src="profile.jpg" width="180" align="left" style="border-radius: 10px; margin-right: 20px; margin-bottom: 10px;">
 
 Assistant Professor | Chanakya University | Bengaluru (KA) | India
