@@ -1,3 +1,20 @@
+style>
+  body {
+    background-color: #1a1c2c !important; /* Professional Deep Navy */
+    color: #ffffff !important;           /* Pure white text */
+  }
+  
+  header {
+    border-bottom: 1px solid #30363d;   /* Subtle divider for the header */
+    padding-bottom: 20px;
+  }
+
+  /* Keeps your 'Assistant Professor' tags readable on dark bg */
+  .btn, .label, span {
+    color: #ffffff;
+  }
+</style>
+
 ---
 layout: default
 ---
