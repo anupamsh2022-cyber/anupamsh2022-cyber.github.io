@@ -4,13 +4,13 @@ title: Anupam Sharma
 ---
 
 <style>
-  /* 1. Universal Theme Colors */
+  /* 1. Universal Theme & Layout */
   body, .main-content, header { 
     background-color: #1a1c2c !important;
     color: #ffffff !important;
   }
 
-  /* 2. Sticky Navbar Styling */
+  /* 2. Sticky Navbar */
   .navbar {
     position: -webkit-sticky;
     position: sticky;
@@ -35,11 +35,26 @@ title: Anupam Sharma
     transition: 0.3s;
   }
 
-  .navbar a:hover {
-    color: #4da6ff !important;
+  .navbar a:hover { color: #4da6ff !important; }
+
+  /* 3. Global Section Styling */
+  h2 { 
+    color: #4da6ff !important; 
+    border-bottom: none !important; 
+    scroll-margin-top: 100px; /* Offset for sticky navbar */
+    margin-top: 40px;
   }
 
-  /* 3. Profile Header Fix (Removes White Space) */
+  .tag-box {
+    background-color: #24283b !important;
+    border: 1px solid #3d446d !important;
+    padding: 5px 12px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    margin-right: 5px;
+  }
+
+  /* 4. Profile Section */
   .profile-container {
     display: flex;
     align-items: center;
@@ -49,52 +64,120 @@ title: Anupam Sharma
   }
 
   .profile-img {
-    width: 150px !important; /* Reduced professional size */
+    width: 150px !important;
     height: auto;
     border-radius: 12px;
     border: 2px solid #4da6ff;
-    object-fit: cover !important; /* Crops internal white space */
-    background-color: transparent !important;
+    object-fit: cover;
   }
 
-  /* 4. General Formatting */
-  h2, h3 { 
-    color: #4da6ff !important; 
-    border-bottom: none !important; 
-    scroll-margin-top: 80px; /* Prevents text from hiding under navbar */
+  /* 5. Skills Grid */
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
   }
-  
-  .tag-box {
-    background-color: #24283b !important;
-    border: 1px solid #3d446d !important;
-    padding: 5px 12px;
+
+  .skill-card {
+    background-color: #24283b;
+    border: 1px solid #3d446d;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.3s;
+  }
+
+  .skill-card:hover { border-color: #4da6ff; transform: translateY(-5px); }
+
+  .skill-header { color: #4da6ff; font-weight: bold; margin-bottom: 10px; }
+
+  .skill-list { list-style: none; padding: 0; font-size: 0.9em; color: #cbd5e0; }
+
+  .skill-list li { margin-bottom: 5px; padding-left: 15px; position: relative; }
+
+  .skill-list li::before { content: "▹"; position: absolute; left: 0; color: #4da6ff; }
+
+  /* 6. Pedagogy & Teaching */
+  .pedagogy-highlight {
+    background: linear-gradient(135deg, #24283b 0%, #1a1c2c 100%);
+    border-left: 5px solid #4da6ff;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #3d446d;
+  }
+
+  .framework-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 15px;
+    margin-bottom: 30px;
+  }
+
+  .framework-pill {
+    background: #24283b;
+    border: 1px solid #4da6ff;
+    padding: 12px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 0.85em;
+    font-weight: 600;
+  }
+
+  .course-container { display: flex; flex-wrap: wrap; gap: 15px; }
+
+  .semester-box {
+    flex: 1;
+    min-width: 300px;
+    background-color: #24283b;
+    border: 1px solid #3d446d;
+    padding: 15px;
+    border-radius: 10px;
+  }
+
+  .course-tag {
+    display: inline-block;
+    background: #1a1c2c;
+    border: 1px solid #4da6ff;
+    padding: 2px 8px;
     border-radius: 4px;
-    font-size: 0.9em;
+    font-size: 0.8em;
+    margin-right: 5px;
   }
 
-  a { color: #82aaff !important; text-decoration: none; }
-  hr { border: 0; border-top: 1px solid #3d446d; margin: 25px 0; }
-  
-  /* Styling for the Activity Image */
-  .activity-img {
-    max-width: 100%;
+  /* 7. Activities Grid */
+  .activity-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+    margin-top: 20px;
+  }
+
+  .activity-img-standard {
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+    background-color: #1a1c2c;
     border-radius: 8px;
     border: 1px solid #3d446d;
-    margin-top: 10px;
+    transition: 0.3s;
   }
+
+  .activity-img-standard:hover { border-color: #4da6ff; transform: scale(1.02); }
+
+  .activity-desc { margin-top: 12px; font-size: 0.85em; font-style: italic; color: #cbd5e0; }
 </style>
 
 <div class="navbar">
   <a href="#research">Research</a>
   <a href="#skills">Skills</a>
-  <a href="#teaching">Teaching</a>
+  <a href="#teaching">Pedagogy</a>
   <a href="#activities">Activities</a>
 </div>
 
 <div class="profile-container">
   <img src="profile.jpg" class="profile-img" alt="Anupam Sharma">
   <div>
-    <h2 style="margin:0; border:none !important;">Assistant Professor</h2>
+    <h2 style="margin:0;">Assistant Professor</h2>
     <div style="margin-top:10px;">
       <span class="tag-box">Chanakya University</span>
       <span class="tag-box">Bengaluru, India</span>
@@ -109,66 +192,12 @@ title: Anupam Sharma
 
 I am an Energy Engineer pursuing research at the intersection of **Power Systems and Cybersecurity**. My work focuses on making renewable energy grids more resilient against cyber-physical threats.
 
----
+<hr>
 
 <h2 id="research">🔬 Research Projects</h2>
 * **Smart Grid Resilience with AI:** Developing frameworks to detect and mitigate false data injection in renewable energy systems.
 
 <h2 id="skills">🛠️ Interdisciplinary Expertise</h2>
-
-<style>
-  .skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 20px;
-    margin-top: 20px;
-  }
-
-  .skill-card {
-    background-color: #24283b;
-    border: 1px solid #3d446d;
-    padding: 15px;
-    border-radius: 10px;
-    transition: 0.3s;
-  }
-
-  .skill-card:hover {
-    border-color: #4da6ff;
-    transform: translateY(-5px);
-  }
-
-  .skill-header {
-    color: #4da6ff;
-    font-weight: bold;
-    font-size: 1.1em;
-    margin-bottom: 10px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-
-  .skill-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    font-size: 0.9em;
-    color: #cbd5e0;
-  }
-
-  .skill-list li {
-    margin-bottom: 5px;
-    padding-left: 15px;
-    position: relative;
-  }
-
-  .skill-list li::before {
-    content: "▹";
-    position: absolute;
-    left: 0;
-    color: #4da6ff;
-  }
-</style>
-
 <div class="skills-grid">
   <div class="skill-card">
     <div class="skill-header">⚡ Electrical Engineering</div>
@@ -179,7 +208,6 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
       <li>Software: SAM, SOLTRACE</li>
     </ul>
   </div>
-
   <div class="skill-card">
     <div class="skill-header">🔢 Mathematical Sciences</div>
     <ul class="skill-list">
@@ -189,7 +217,6 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
       <li>Statistical Analysis</li>
     </ul>
   </div>
-
   <div class="skill-card">
     <div class="skill-header">🧠 Humanities & Social Sciences</div>
     <ul class="skill-list">
@@ -201,43 +228,7 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
   </div>
 </div>
 
-
 <h2 id="teaching">📖 Pedagogy</h2>
-
-<style>
-  .pedagogy-highlight {
-    background: linear-gradient(135deg, #24283b 0%, #1a1c2c 100%);
-    border-left: 5px solid #4da6ff;
-    padding: 25px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    border: 1px solid #3d446d;
-  }
-
-  .framework-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 15px;
-  }
-
-  .framework-pill {
-    background: #24283b;
-    border: 1px solid #4da6ff;
-    color: #ffffff;
-    padding: 12px;
-    border-radius: 50px;
-    text-align: center;
-    font-size: 0.85em;
-    font-weight: 600;
-    transition: 0.3s;
-  }
-
-  .framework-pill:hover {
-    background: #4da6ff;
-    color: #1a1c2c;
-  }
-</style>
-
 <div class="pedagogy-highlight">
   <p style="margin: 0; line-height: 1.8; font-size: 1.1em;">
     My approach is rooted in <b>Interdisciplinary Pedagogy</b>, where I bridge the gap between <b>Mathematical Rigor</b> and <b>Cognitive Psychology</b>. I focus on "Logic-First" learning—simplifying complex power systems through the lens of human cognitive patterns and structured scaffolding.
@@ -251,147 +242,47 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
   <div class="framework-pill">📊 Visual Analytics</div>
 </div>
 
-<p style="margin-top: 20px; font-size: 0.9em; color: #cbd5e0; text-align: center; font-style: italic;">
-  "Teaching is the art of simplifying complexity without losing precision."
-</p>
-
-<style>
-  .course-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
-    margin-bottom: 20px;
-  }
-  .semester-box {
-    flex: 1;
-    min-width: 300px;
-    background-color: #24283b;
-    border: 1px solid #3d446d;
-    padding: 15px;
-    border-radius: 10px;
-  }
-  .semester-title {
-    color: #4da6ff;
-    font-weight: bold;
-    margin-bottom: 10px;
-    border-bottom: 1px solid #3d446d;
-    padding-bottom: 5px;
-  }
-  .course-tag {
-    display: inline-block;
-    background: #1a1c2c;
-    border: 1px solid #4da6ff;
-    color: #ffffff;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 0.8em;
-    margin-right: 5px;
-  }
-</style>
-
 <div class="course-container">
   <div class="semester-box">
-    <div class="semester-title">Current Semester (Jan – May 2026)</div>
-    <ul style="list-style: none; padding-left: 0;">
-      <li style="margin-bottom: 10px;">
-        <span class="course-tag">EEC 206</span> <b>Power & Energy Engineering </b>
-      </li>
-      <li>
-        <span class="course-tag">EVE 208</span> <b>Analog Systems</b>
-      </li>
+    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Current Semester (2026)</div>
+    <ul style="list-style:none; padding:0; font-size:0.95em;">
+      <li><span class="course-tag">EEC 206</span> <b>Power & Energy Engineering</b></li>
+      <li style="margin-top:10px;"><span class="course-tag">EVE 208</span> <b>Analog Systems</b></li>
     </ul>
   </div>
-
   <div class="semester-box">
-    <div class="semester-title">Previous Semester (Aug – Dec 2025)</div>
-    <ul style="list-style: none; padding-left: 0;">
-      <li style="margin-bottom: 10px;">
-        <span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b>
-      </li>
-      <li>
-        <span class="course-tag">EBS 105</span> <b>Engineering Mathematics III</b>
-      </li>
+    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Previous Semester (2025)</div>
+    <ul style="list-style:none; padding:0; font-size:0.95em;">
+      <li><span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b></li>
+      <li style="margin-top:10px;"><span class="course-tag">EBS 105</span> <b>Engineering Mathematics III</b></li>
     </ul>
   </div>
 </div>
 
-<p style="font-size: 0.95em; color: #cbd5e0;">
-  <b>Pedagogy:</b> Committed to active learning, student-centric mentoring, and developing Python-based interactive modules for mathematical visualization.
-</p>
-
----
-
 <h2 id="activities">🤝 Professional Activities</h2>
-
-<style>
-  /* Unified Grid for all activities and certificates */
-  .activity-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 25px;
-    margin-top: 20px;
-  }
-
-  .activity-item {
-    display: flex;
-    flex-direction: column;
-  }
-
-  /* Keeps all images sharp and exactly the same height */
-  .activity-img-standard {
-    width: 100%;
-    height: 250px; /* Uniform height for a clean row look */
-    object-fit: contain; 
-    background-color: #1a1c2c;
-    border-radius: 8px;
-    border: 1px solid #3d446d;
-    transition: transform 0.3s ease;
-  }
-  
-  .activity-img-standard:hover {
-    transform: scale(1.02);
-    border-color: #4da6ff;
-  }
-
-  .activity-desc {
-    margin-top: 12px;
-    font-size: 0.85em;
-    line-height: 1.5;
-    font-style: italic;
-    color: #cbd5e0;
-  }
-</style>
-
 <div class="activity-grid">
   <div class="activity-item">
     <img src="Y_HR3985.JPG" class="activity-img-standard" alt="Counselling Cell">
-    <div class="activity-desc">Engaging with Dr. Amey Agharkar during the inauguration of the Counselling Cell at Chanakya University.</div>
+    <div class="activity-desc">Inauguration of the Counselling Cell at Chanakya University with Dr. Amey Agharkar.</div>
   </div>
-
   <div class="activity-item">
     <img src="UGC.png" class="activity-img-standard" alt="Goa University FDP">
     <div class="activity-desc">124th Guru Dakshata (Online) Faculty Induction Program at Goa University.</div>
   </div>
-
   <div class="activity-item">
     <img src="Neurocon.jpg" class="activity-img-standard" alt="NeuroConsciousness">
-    <div class="activity-desc">Engaging with Prof. CA Tomy (University of Hyderabad) during NeuroConsciousness Workshop at IISc.</div>
+    <div class="activity-desc">Engaging with Prof. CA Tomy (UoH) during NeuroConsciousness Workshop at IISc.</div>
   </div>
-
   <div class="activity-item">
     <img src="Ganesha.jpg" class="activity-img-standard" alt="IISc Festival">
-    <div class="activity-desc">Engaging with Research Scholars and Masters Students at IISc during Ganesh Chaturthi Festival.</div>
+    <div class="activity-desc">Engaging with Scholars and Masters Students at IISc during Ganesh Chaturthi.</div>
   </div>
-
   <div class="activity-item">
     <img src="SIP.jpg" class="activity-img-standard" alt="Student Induction">
-    <div class="activity-desc">During Student Induction Program at Chanakya University along with Prof. Akhila.</div>
+    <div class="activity-desc">During Student Induction Program at Chanakya University with Prof. Akhila.</div>
   </div>
-
   <div class="activity-item">
     <img src="Lovish.jpg" class="activity-img-standard" alt="Manotsava">
-    <div class="activity-desc">Engaging with Lovish Raheja (Doctoral student at IIT Bombay-Monash) during Manotsava 2025.</div>
+    <div class="activity-desc">Engaging with Lovish Raheja (IIT Bombay-Monash) during Manotsava 2025.</div>
   </div>
 </div>
-
-
