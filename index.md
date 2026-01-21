@@ -4,20 +4,44 @@ title: Anupam Sharma | Portfolio
 ---
 
 <style>
+  /* Base Theme Colors */
   body, .main-content, header {
     background-color: #1a1c2c !important;
     color: #ffffff !important;
   }
-  table, tr, td, span, .label {
+
+  /* Professional Image Sizing */
+  .profile-img {
+    width: 220px;
+    border-radius: 12px;
+    border: 3px solid #3d446d;
+    margin-bottom: 15px;
+    display: block;
+  }
+
+  /* Tag Styling (No more squash) */
+  .tag-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 25px;
+  }
+  .tag {
     background-color: #24283b !important;
     color: #ffffff !important;
-    border: 1px solid #3d446d !important;
-    padding: 5px 10px !important;
+    border: 1px solid #4da6ff !important;
+    padding: 6px 15px;
+    border-radius: 6px;
+    font-size: 0.9em;
+    font-weight: 500;
   }
-  h1, h2, h3 { color: #4da6ff !important; border-bottom: none !important; }
+
+  h2, h3 { 
+    color: #4da6ff !important; 
+    border-bottom: 1px solid #30363d !important; 
+    padding-top: 15px;
+  }
   a { color: #82aaff !important; text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  hr { border: 0; border-top: 1px solid #3d446d; margin: 25px 0; }
 </style>
 
 <img src="profile.jpg" width="180" align="left" style="border-radius: 10px; margin-right: 20px; margin-bottom: 10px;">
