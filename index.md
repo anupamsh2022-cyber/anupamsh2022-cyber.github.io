@@ -42,7 +42,7 @@ title: Anupam Sharma
     color: #4da6ff !important; 
     border-bottom: none !important; 
     scroll-margin-top: 100px; 
-    margin-top: 40px;
+    margin-top: 45px;
   }
 
   .tag-box {
@@ -106,7 +106,7 @@ title: Anupam Sharma
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     gap: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
 
   .framework-pill {
@@ -119,7 +119,7 @@ title: Anupam Sharma
     font-weight: 600;
   }
 
-  .course-container { display: flex; flex-wrap: wrap; gap: 15px; }
+  .course-container { display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px; }
 
   .semester-box {
     flex: 1;
@@ -240,7 +240,7 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
   <div class="framework-pill">📊 Visual Analytics</div>
 </div>
 
-### 📚 Teaching Portfolio
+<h2 id="teaching-portfolio">📚 Teaching Portfolio</h2>
 
 <div class="course-container">
   <div class="semester-box">
