@@ -119,8 +119,70 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 * **Cybersecurity:** Network Security, Python (Scikit-learn).
 
 <h2 id="teaching">📖 Teaching Portfolio</h2>
-* **Courses Taught:** Electrical Circuits & Networks [EVE 201], Engineering Mathematics III [EBS 105].
-* **Pedagogy:** Committed to active learning and student-centric mentoring.
+
+<style>
+  .course-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  .semester-box {
+    flex: 1;
+    min-width: 300px;
+    background-color: #24283b;
+    border: 1px solid #3d446d;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  .semester-title {
+    color: #4da6ff;
+    font-weight: bold;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #3d446d;
+    padding-bottom: 5px;
+  }
+  .course-tag {
+    display: inline-block;
+    background: #1a1c2c;
+    border: 1px solid #4da6ff;
+    color: #ffffff;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.8em;
+    margin-right: 5px;
+  }
+</style>
+
+<div class="course-container">
+  <div class="semester-box">
+    <div class="semester-title">Current Semester (Jan – May 2026)</div>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="margin-bottom: 10px;">
+        <span class="course-tag">COURSE CODE 1</span> <b>Name of Current Course 1</b>
+      </li>
+      <li>
+        <span class="course-tag">COURSE CODE 2</span> <b>Name of Current Course 2</b>
+      </li>
+    </ul>
+  </div>
+
+  <div class="semester-box">
+    <div class="semester-title">Previous Semester (Aug – Dec 2025)</div>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="margin-bottom: 10px;">
+        <span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b>
+      </li>
+      <li>
+        <span class="course-tag">EBS 105</span> <b>Engineering Mathematics III</b>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<p style="font-size: 0.95em; color: #cbd5e0;">
+  <b>Pedagogy:</b> Committed to active learning, student-centric mentoring, and developing Python-based interactive modules for mathematical visualization.
+</p>
 
 ---
 
