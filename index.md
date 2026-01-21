@@ -2,6 +2,36 @@
 layout: default
 title: Anupam Sharma | Portfolio
 ---
+<style>
+  /* Paste the CSS/Style code here */
+  .navbar {
+    position: sticky;
+    top: 0;
+    background-color: #24283b;
+    padding: 12px 0;
+    z-index: 9999;
+    border-bottom: 2px solid #4da6ff;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+  .navbar a {
+    color: #ffffff !important;
+    font-weight: 600;
+    font-size: 0.8em;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  h2 { scroll-margin-top: 80px; } /* Prevents header from hiding under navbar */
+</style>
+
+<div class="navbar">
+  <a href="#research">Research</a>
+  <a href="#skills">Skills</a>
+  <a href="#teaching">Teaching</a>
+  <a href="#activities">Professional Activities</a>
+</div>
 
 <style>
 body, .main-content, header { background-color: #1a1c2c !important;
