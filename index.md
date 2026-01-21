@@ -185,4 +185,12 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
     <img src="Ganesha.jpg" class="high-res-img" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
     <div class="activity-desc"><i>Engaging with Research Scholars and Masters Students at IISc during Ganesh Chaturthi Festival.</i></div>
   </div>
+  <div class="activity-card">
+    <img src="Ganesha.jpg" class="SIP.jpg" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
+    <div class="activity-desc"><i>During Student Induction Program at Chanakya University along with Prof. Akhila.</i></div>
+  </div>
+  <div class="activity-card">
+    <img src="Ganesha.jpg" class="Lovish.jpg" style="border: 1px solid #4da6ff;" alt="FDP Certificate">
+    <div class="activity-desc"><i>Engaging with Lovish Raheja (Doctoral student at IIT Bombay-Monash Research Academy) during Manotsava 2025.</i></div>
+  </div>
 </div>
