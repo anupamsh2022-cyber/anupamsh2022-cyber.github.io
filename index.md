@@ -172,7 +172,7 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
   </div>
 
   <div class="activity-column">
-    <img src="YOUR_NEW_PHOTO_FILENAME.jpg" class="equal-height-img" alt="Goa University FDP">
+    <img src="UGC.Png" class="equal-height-img" alt="Goa University FDP">
     <div class="caption">
       Engaging with faculty members during 124th Guru Dakshata (Online) Faculty Development Program at Goa University.
     </div>
