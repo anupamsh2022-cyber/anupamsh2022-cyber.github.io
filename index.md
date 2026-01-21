@@ -10,41 +10,44 @@ title: Anupam Sharma | Portfolio
     color: #ffffff !important;
   }
 
-  /* Fixed Profile Image Sizing & Placement */
-  .profile-container {
-    margin-bottom: 20px;
-    display: block;
-    clear: both;
+  /* Header Section: Removes white space & aligns photo */
+  .profile-header {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
   }
 
   .profile-img {
-    width: 200px;
-    border-radius: 10px;
-    border: 2px solid #4da6ff;
-    display: block;
+    width: 150px; /* Reduced size as requested */
+    height: auto;
+    border-radius: 50%; /* Circular look is very professional */
+    border: 3px solid #4da6ff;
+    object-fit: cover;
   }
 
-  /* Modern Tag Buttons (Replaces the broken white boxes) */
+  /* Modern Tag Buttons */
   .tag-wrapper {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
-    margin-top: 15px;
+    margin-top: 10px;
   }
 
   .prof-tag {
     background: #24283b !important;
     color: #ffffff !important;
-    padding: 5px 12px;
+    padding: 4px 10px;
     border-radius: 4px;
     border: 1px solid #3d446d;
-    font-size: 0.85em;
+    font-size: 0.8em;
   }
 
-  /* Header and Link Colors */
   h2, h3 { color: #4da6ff !important; border-bottom: 1px solid #30363d !important; padding-top: 10px; }
   a { color: #82aaff !important; text-decoration: none; }
 </style>
+
 <img src="profile.jpg" width="180" align="left" style="border-radius: 10px; margin-right: 20px; margin-bottom: 10px;">
 
 Assistant Professor | Chanakya University | Bengaluru (KA) | India
