@@ -4,49 +4,23 @@ title: Anupam Sharma | Portfolio
 ---
 
 <style>
-  /* Base Background */
   body, .main-content, header {
     background-color: #1a1c2c !important;
     color: #ffffff !important;
   }
-
-  /* Header Section: Removes white space & aligns photo */
-  .profile-header {
-    display: flex;
-    align-items: center;
-    gap: 25px;
-    margin-bottom: 30px;
-    flex-wrap: wrap;
-  }
-
-  .profile-img {
-    width: 150px; /* Reduced size as requested */
-    height: auto;
-    border-radius: 50%; /* Circular look is very professional */
-    border: 3px solid #4da6ff;
-    object-fit: cover;
-  }
-
-  /* Modern Tag Buttons */
-  .tag-wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-top: 10px;
-  }
-
-  .prof-tag {
-    background: #24283b !important;
+  table, tr, td, span, .label {
+    background-color: #24283b !important;
     color: #ffffff !important;
-    padding: 4px 10px;
-    border-radius: 4px;
-    border: 1px solid #3d446d;
-    font-size: 0.8em;
+    border: 1px solid #3d446d !important;
+    padding: 5px 10px !important;
   }
-
-  h2, h3 { color: #4da6ff !important; border-bottom: 1px solid #30363d !important; padding-top: 10px; }
+  h1, h2, h3 { color: #4da6ff !important; border-bottom: none !important; }
   a { color: #82aaff !important; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  hr { border: 0; border-top: 1px solid #3d446d; margin: 25px 0; }
 </style>
+
+
 
 <img src="profile.jpg" width="180" align="left" style="border-radius: 10px; margin-right: 20px; margin-bottom: 10px;">
 
