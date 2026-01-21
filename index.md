@@ -41,7 +41,7 @@ title: Anupam Sharma
   h2 { 
     color: #4da6ff !important; 
     border-bottom: none !important; 
-    scroll-margin-top: 100px; /* Offset for sticky navbar */
+    scroll-margin-top: 100px; 
     margin-top: 40px;
   }
 
@@ -87,16 +87,12 @@ title: Anupam Sharma
   }
 
   .skill-card:hover { border-color: #4da6ff; transform: translateY(-5px); }
-
   .skill-header { color: #4da6ff; font-weight: bold; margin-bottom: 10px; }
-
   .skill-list { list-style: none; padding: 0; font-size: 0.9em; color: #cbd5e0; }
-
   .skill-list li { margin-bottom: 5px; padding-left: 15px; position: relative; }
-
   .skill-list li::before { content: "▹"; position: absolute; left: 0; color: #4da6ff; }
 
-  /* 6. Pedagogy & Teaching */
+  /* 6. Pedagogy & Portfolio */
   .pedagogy-highlight {
     background: linear-gradient(135deg, #24283b 0%, #1a1c2c 100%);
     border-left: 5px solid #4da6ff;
@@ -163,14 +159,13 @@ title: Anupam Sharma
   }
 
   .activity-img-standard:hover { border-color: #4da6ff; transform: scale(1.02); }
-
   .activity-desc { margin-top: 12px; font-size: 0.85em; font-style: italic; color: #cbd5e0; }
 </style>
 
 <div class="navbar">
   <a href="#research">Research</a>
   <a href="#skills">Skills</a>
-  <a href="#teaching">Pedagogy</a>
+  <a href="#pedagogy">Pedagogy</a>
   <a href="#activities">Activities</a>
 </div>
 
@@ -228,7 +223,10 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
   </div>
 </div>
 
-<h2 id="teaching">📖 Pedagogy</h2>
+<h2 id="pedagogy">📖 Pedagogy</h2>
+
+
+
 <div class="pedagogy-highlight">
   <p style="margin: 0; line-height: 1.8; font-size: 1.1em;">
     My approach is rooted in <b>Interdisciplinary Pedagogy</b>, where I bridge the gap between <b>Mathematical Rigor</b> and <b>Cognitive Psychology</b>. I focus on "Logic-First" learning—simplifying complex power systems through the lens of human cognitive patterns and structured scaffolding.
@@ -242,16 +240,18 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
   <div class="framework-pill">📊 Visual Analytics</div>
 </div>
 
+### 📚 Teaching Portfolio
+
 <div class="course-container">
   <div class="semester-box">
-    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Current Semester (2026)</div>
+    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Current Semester (Jan – May 2026)</div>
     <ul style="list-style:none; padding:0; font-size:0.95em;">
       <li><span class="course-tag">EEC 206</span> <b>Power & Energy Engineering</b></li>
       <li style="margin-top:10px;"><span class="course-tag">EVE 208</span> <b>Analog Systems</b></li>
     </ul>
   </div>
   <div class="semester-box">
-    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Previous Semester (2025)</div>
+    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Previous Semester (Aug – Dec 2025)</div>
     <ul style="list-style:none; padding:0; font-size:0.95em;">
       <li><span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b></li>
       <li style="margin-top:10px;"><span class="course-tag">EBS 105</span> <b>Engineering Mathematics III</b></li>
