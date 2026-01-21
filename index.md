@@ -126,51 +126,56 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 
 <h2 id="activities">🤝 Professional Activities</h2>
 
+<h2 id="activities">🤝 Professional Activities</h2>
+
 <style>
-  /* Grid container for equal sizing */
-  .activity-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 25px;
+  /* Container for the images */
+  .activity-flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: flex-start;
     margin-top: 20px;
   }
 
-  .activity-card {
-    display: flex;
-    flex-direction: column;
+  /* Professional Card styling */
+  .activity-item {
+    flex: 1;
+    min-width: 350px; /* Ensures they don't get too small and blurry */
+    max-width: 48%;   /* Keeps them side-by-side on desktop */
   }
 
-  /* Forces images to be equal height and width */
-  .fixed-size-img {
-    width: 100%;
-    height: 220px; /* Fixed height for uniformity */
-    object-fit: cover; /* Crops image to fill the box perfectly */
+  /* High Quality Image Settings */
+  .high-quality-img {
+    width: 100%;      /* Fills the container width */
+    height: auto;     /* Keeps original aspect ratio (No cropping) */
+    display: block;
     border-radius: 10px;
     border: 1px solid #3d446d;
-    background-color: #24283b;
+    /* Removed object-fit to prevent quality loss from zooming */
+    image-rendering: -webkit-optimize-contrast; /* Sharper rendering for some browsers */
   }
 
-  .activity-caption {
-    font-size: 0.9em;
-    margin-top: 12px;
-    line-height: 1.5;
-    color: #e0e0e0;
+  .activity-text {
+    font-size: 0.95em;
+    margin-top: 15px;
+    line-height: 1.6;
+    color: #f0f0f0;
   }
 </style>
 
-<div class="activity-grid">
-  <div class="activity-card">
-    <img src="Y_HR3985.JPG" class="fixed-size-img" alt="Counselling Cell Inauguration">
-    <p class="activity-caption">
+<div class="activity-flex-container">
+  <div class="activity-item">
+    <img src="Y_HR3985.JPG" class="high-quality-img" alt="Counselling Cell Inauguration">
+    <p class="activity-text">
       <i>Engaging with Dr. Amey Agharkar during the inauguration of the Counselling Cell at Chanakya University.</i>
     </p>
   </div>
 
-  <div class="activity-card">
-    <img src="UGC.png" class="fixed-size-img" alt="Goa University FDP">
-    <p class="activity-caption">
+  <div class="activity-item">
+    <img src="UGC.png" class="high-quality-img" alt="Goa University FDP">
+    <p class="activity-text">
       <i>Engaging with faculty members during 124th Guru Dakshata (Online) Faculty Development Program at Goa University.</i>
     </p>
   </div>
 </div>
-
