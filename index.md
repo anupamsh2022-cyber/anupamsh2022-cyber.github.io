@@ -27,7 +27,7 @@ title: Anupam Sharma | Portfolio
 </style>
 
 <div class="navbar">
-  <a href="#research">Research</a>
+  <a href="#Research Projects">Research</a>
   <a href="#skills">Skills</a>
   <a href="#teaching">Teaching</a>
   <a href="#activities">Professional Activities</a>
