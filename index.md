@@ -126,6 +126,18 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 
 <h2 id="activities">🤝 Professional Activities</h2>
 
-<img src="Y_HR3985.JPG" class="activity-img" alt="Professional Activity">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="Y_HR3985.JPG" class="activity-img" alt="Counselling Cell Inauguration">
+    <p style="font-size: 0.9em; margin-top: 10px;">
+      <i>Engaging with Dr. Amey Agharkar during the inauguration of the Counselling Cell at Chanakya University.</i>
+    </p>
+  </div>
 
-*Engaging with Dr. Amey Agharkar during the inauguration of the Counselling Cell at Chanakya University.*
+  <div style="flex: 1; min-width: 300px;">
+    <img src="YOUR_NEW_PHOTO_FILENAME.jpg" class="activity-img" alt="Goa University FDP">
+    <p style="font-size: 0.9em; margin-top: 10px;">
+      <i>Engaging with faculty members during 124th Guru Dakshata (Online) Faculty Development Program at Goa University.</i>
+    </p>
+  </div>
+</div>
