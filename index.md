@@ -92,33 +92,49 @@ title: Anupam Sharma
   .skill-list li { margin-bottom: 5px; padding-left: 15px; position: relative; }
   .skill-list li::before { content: "▹"; position: absolute; left: 0; color: #4da6ff; }
 
-  /* 6. Pedagogy & Portfolio */
-  .pedagogy-highlight {
-    background: linear-gradient(135deg, #24283b 0%, #1a1c2c 100%);
-    border-left: 5px solid #4da6ff;
-    padding: 25px;
-    border-radius: 10px;
-    margin-bottom: 20px;
+  /* 6. Deep Pedagogy Section */
+  .pedagogy-depth-box {
+    background: linear-gradient(135deg, #1a1c2c 0%, #24283b 100%);
     border: 1px solid #3d446d;
+    border-top: 4px solid #4da6ff;
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 25px;
   }
 
-  .framework-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    gap: 15px;
-    margin-bottom: 10px;
+  .philosophy-quote {
+    font-size: 1.2em;
+    font-style: italic;
+    color: #82aaff;
+    margin-bottom: 20px;
+    display: block;
+    line-height: 1.5;
   }
 
-  .framework-pill {
-    background: #24283b;
-    border: 1px solid #4da6ff;
-    padding: 12px;
-    border-radius: 50px;
-    text-align: center;
+  .pedagogy-manifesto {
+    line-height: 1.8;
+    font-size: 1.05em;
+    color: #cbd5e0;
+  }
+
+  .depth-keywords {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 25px;
+  }
+
+  .depth-tag {
+    background: rgba(77, 166, 255, 0.1);
+    border: 1px solid rgba(77, 166, 255, 0.3);
+    color: #4da6ff;
+    padding: 6px 15px;
+    border-radius: 20px;
     font-size: 0.85em;
-    font-weight: 600;
+    font-weight: 500;
   }
 
+  /* 7. Course Portfolio */
   .course-container { display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px; }
 
   .semester-box {
@@ -140,7 +156,7 @@ title: Anupam Sharma
     margin-right: 5px;
   }
 
-  /* 7. Activities Grid */
+  /* 8. Activities Grid */
   .activity-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -225,51 +241,6 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
 
 <h2 id="pedagogy">📖 Pedagogy</h2>
 
-<style>
-  .pedagogy-depth-box {
-    background: linear-gradient(135deg, #1a1c2c 0%, #24283b 100%);
-    border: 1px solid #3d446d;
-    border-top: 4px solid #4da6ff;
-    padding: 30px;
-    border-radius: 12px;
-    margin-bottom: 25px;
-    position: relative;
-    overflow: hidden;
-  }
-
-  .philosophy-quote {
-    font-size: 1.2em;
-    font-style: italic;
-    color: #82aaff;
-    margin-bottom: 20px;
-    display: block;
-    line-height: 1.5;
-  }
-
-  .pedagogy-manifesto {
-    line-height: 1.8;
-    font-size: 1.05em;
-    color: #cbd5e0;
-  }
-
-  .depth-keywords {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin-top: 25px;
-  }
-
-  .depth-tag {
-    background: rgba(77, 166, 255, 0.1);
-    border: 1px solid rgba(77, 166, 255, 0.3);
-    color: #4da6ff;
-    padding: 6px 15px;
-    border-radius: 20px;
-    font-size: 0.85em;
-    font-weight: 500;
-  }
-</style>
-
 <div class="pedagogy-depth-box">
   <span class="philosophy-quote">
     "Education is not the filling of a pail, but the lighting of a fire—a fire that must illuminate both the circuit and the soul."
@@ -286,6 +257,25 @@ I am an Energy Engineer pursuing research at the intersection of **Power Systems
     <span class="depth-tag">✧ Cognitive Scaffolding</span>
     <span class="depth-tag">✧ Ethical Engineering</span>
     <span class="depth-tag">✧ Conscious Mentorship</span>
+  </div>
+</div>
+
+<h2 id="teaching-portfolio">📚 Teaching Portfolio</h2>
+
+<div class="course-container">
+  <div class="semester-box">
+    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Current Semester (Jan – May 2026)</div>
+    <ul style="list-style:none; padding:0; font-size:0.95em;">
+      <li><span class="course-tag">EEC 206</span> <b>Power & Energy Engineering</b></li>
+      <li style="margin-top:10px;"><span class="course-tag">EVE 208</span> <b>Analog Systems</b></li>
+    </ul>
+  </div>
+  <div class="semester-box">
+    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Previous Semester (Aug – Dec 2025)</div>
+    <ul style="list-style:none; padding:0; font-size:0.95em;">
+      <li><span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b></li>
+      <li style="margin-top:10px;"><span class="course-tag">EBS 105</span> <b>Engineering Mathematics III</b></li>
+    </ul>
   </div>
 </div>
 
