@@ -438,21 +438,21 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
   
   <div class="project-box" style="border-left-color: #4da6ff;">
     <span class="project-title">📑 Course Resources</span>
-    <a href="YOUR_NOTES_LINK" class="resource-link">Lecture Notes</a>
-    <a href="YOUR_LAB_LINK" class="resource-link">Lab Manual</a>
+    <a href="https://drive.google.com/file/d/1icZUJseGWW1wIHXJJv1brDBUDAeeJrs-/view?usp=sharing" class="resource-link">Lab Manual</a>
+    <a href="https://drive.google.com/file/d/15YuIidPokCKyR7rnbDjcm6wmNagPdIQe/view?usp=sharing" class="resource-link">Lab Videos</a>
   </div>
 
   <div class="project-box" style="border-left-color: #ff4d4d; margin-top: 10px;">
     <span class="project-title" style="color: #ff4d4d;">🎯 Assessment Archive</span>
-    <a href="YOUR_MIDSEM_LINK" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">Mid-Sem Paper</a>
-    <a href="YOUR_ENDSEM_LINK" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">End-Sem Paper</a>
+    <a href="https://drive.google.com/file/d/1ANuHKQUO-MUd4oOLY_2HwB_I3d2wlT4y/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">Mid-Sem Paper</a>
+    <a href="https://drive.google.com/file/d/1iAmq5YH-mwjNZko_6nzF6kKj_W3q9cj6/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">End-Sem Paper</a>
   </div>
 
   <div class="project-box" style="border-left-color: #ffd700; background: rgba(255, 215, 0, 0.03); padding-bottom: 15px; border-radius: 0 8px 8px 0;">
     <span class="project-title" style="color: #ffd700;">🚀 Student Innovation Projects</span>
     <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <a href="LINK_1" class="resource-link" style="border-color: #ffd700; color: #ffd700 !important;">📁 Smart City Grid Model</a>
-      <a href="LINK_2" class="resource-link" style="border-color: #ffd700; color: #ffd700 !important;">📁 PV Integration Study</a>
+      <a href="https://drive.google.com/file/d/1qDMkhz9DzY9TZ2p1jgd1VGzZ9G2f7Huv/view?usp=sharing" class="resource-link" style="border-color: #ffd700; color: #ffd700 !important;">📁 Incandescent Bulb</a>
+      
     </div>
   </div>
 </li>
