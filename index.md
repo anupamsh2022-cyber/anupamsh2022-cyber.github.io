@@ -194,7 +194,7 @@ title: Anupam Sharma
   <a href="#research">Research</a>
   <a href="#skills">Skills</a>
   <a href="#pedagogy">Pedagogy</a>
-  <a href="#activities">Activities</a>
+  <a href="#teaching-portfolio">Teaching</a> <a href="#activities">Activities</a>
 </div>
 
 <div class="profile-container">
@@ -388,8 +388,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
         <span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b>
         <div class="project-box" style="border-left-color: #4da6ff;">
           <span class="project-title">🚀 Student Projects</span>
-          <a href="#" class="resource-link">📁 Smart City Grid Model</a>
-          <a href="#" class="resource-link">📁 PV Integration Study</a>
+          <a href="#" class="https://drive.google.com/file/d/1qDMkhz9DzY9TZ2p1jgd1VGzZ9G2f7Huv/view?usp=sharing">📁 Incandescent Bulb</a>
         </div>
       </li>
     </ul>
