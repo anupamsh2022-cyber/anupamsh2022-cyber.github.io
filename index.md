@@ -384,11 +384,13 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
         </div>
       </li>
 
-      <li class="course-item-container" style="border-top: 1px solid #3d446d; padding-top: 20px;">
-        <span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b>
-        <div class="project-box" style="border-left-color: #4da6ff;">
-          <span class="project-title">🚀 Student Projects</span>
-          <a href="https://drive.google.com/file/d/1qDMkhz9DzY9TZ2p1jgd1VGzZ9G2f7Huv/view?usp=sharing" class="resource-link" style="font-size: 0.75em; opacity: 0.9;">🌟 Featured: Incadescent Bulb</a>
+      <li class="course-item-container" style="border-top: 1px solid #3d446d; padding-top: 25px; margin-top: 30px;">
+        <span class="course-tag">EVE 201</span> <b style="font-size: 1.1em;">Electrical Circuits & Networks</b>
+                  
+          <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+            <a href="https://drive.google.com/file/d/1qDMkhz9DzY9TZ2p1jgd1VGzZ9G2f7Huv/view?usp=sharing" class="resource-link" style="border-color: #ffd700; color: #ffd700 !important;">📁 Incandescent Bulb</a>
+            
+          </div>
         </div>
       </li>
     </ul>
