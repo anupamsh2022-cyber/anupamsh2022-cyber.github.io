@@ -434,10 +434,29 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
       </li>
 
       <li class="course-item-container" style="border-top: 1px solid #3d446d; padding-top: 25px; margin-top: 30px;">
-        <span class="course-tag">EVE 201</span> <b style="font-size: 1.1em;">Electrical Circuits & Networks</b>
-                  
-    
-      </li>
+  <span class="course-tag">EVE 201</span> <b style="font-size: 1.1em;">Electrical Circuits & Networks</b>
+  
+  <div class="project-box" style="border-left-color: #4da6ff;">
+    <span class="project-title">📑 Course Resources</span>
+    <a href="YOUR_NOTES_LINK" class="resource-link">Lecture Notes</a>
+    <a href="YOUR_LAB_LINK" class="resource-link">Lab Manual</a>
+  </div>
+
+  <div class="project-box" style="border-left-color: #ff4d4d; margin-top: 10px;">
+    <span class="project-title" style="color: #ff4d4d;">🎯 Assessment Archive</span>
+    <a href="YOUR_MIDSEM_LINK" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">Mid-Sem Paper</a>
+    <a href="YOUR_ENDSEM_LINK" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">End-Sem Paper</a>
+  </div>
+
+  <div class="project-box" style="border-left-color: #ffd700; background: rgba(255, 215, 0, 0.03); padding-bottom: 15px; border-radius: 0 8px 8px 0;">
+    <span class="project-title" style="color: #ffd700;">🚀 Student Innovation Projects</span>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <a href="LINK_1" class="resource-link" style="border-color: #ffd700; color: #ffd700 !important;">📁 Smart City Grid Model</a>
+      <a href="LINK_2" class="resource-link" style="border-color: #ffd700; color: #ffd700 !important;">📁 PV Integration Study</a>
+    </div>
+  </div>
+</li>
+
     </ul>
   </div>
 </div>
