@@ -326,3 +326,9 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
     <div class="activity-desc">Engaging with Lovish Raheja (IIT Bombay-Monash) during Manotsava 2025.</div>
   </div>
 </div>
+
+<div style="background: rgba(77, 166, 255, 0.05); padding: 30px; border-radius: 15px; text-align: center; margin-top: 50px; border: 1px solid #3d446d;">
+  <p style="margin: 0; color: #cbd5e0; font-size: 1em; letter-spacing: 1px;">
+    <b>VISION 2026:</b> Bridging the gap between <i>Technical Rigor</i> and <i>Human Wisdom</i> to power the next generation of resilient thinkers.
+  </p>
+</div>
