@@ -289,19 +289,72 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
 </div>
 
 <h2 id="teaching-portfolio">📚 Teaching Portfolio</h2>
+
+<style>
+  .resource-link {
+    display: inline-flex;
+    align-items: center;
+    background: rgba(77, 166, 255, 0.1);
+    border: 1px solid rgba(77, 166, 255, 0.3);
+    color: #4da6ff !important;
+    padding: 4px 10px;
+    border-radius: 5px;
+    font-size: 0.8em;
+    text-decoration: none;
+    margin-top: 8px;
+    transition: 0.3s;
+    margin-right: 8px;
+  }
+  .resource-link:hover {
+    background: rgba(77, 166, 255, 0.2);
+    border-color: #4da6ff;
+  }
+  .project-box {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px dashed #3d446d;
+  }
+  .project-title {
+    font-size: 0.85em;
+    color: #82aaff;
+    display: block;
+    margin-bottom: 5px;
+  }
+</style>
+
 <div class="course-container">
   <div class="semester-box">
     <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Current Semester (2026)</div>
     <ul style="list-style:none; padding:0; font-size:0.95em;">
-      <li><span class="course-tag">EEC 206</span> <b>Power & Energy Engineering</b></li>
-      <li style="margin-top:10px;"><span class="course-tag">EVE 208</span> <b>Analog Systems</b></li>
+      <li>
+        <span class="course-tag">EEC 206</span> <b>Power & Energy Engineering</b>
+      </li>
+      <li style="margin-top:15px;">
+        <span class="course-tag">EVE 208</span> <b>Analog Systems</b>
+      </li>
     </ul>
   </div>
+
   <div class="semester-box">
     <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Previous Semester (2025)</div>
     <ul style="list-style:none; padding:0; font-size:0.95em;">
-      <li><span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b></li>
-      <li style="margin-top:10px;"><span class="course-tag">EBS 105</span> <b>Engineering Mathematics III</b></li>
+      <li>
+        <span class="course-tag">EBS 105</span> <b>Engineering Mathematics III</b>
+        <div class="project-box">
+          <span class="project-title">📑 Course Materials</span>
+          <a href="EBS105_Handout.pdf" class="resource-link">📥 Lecture Handouts</a>
+          <a href="#" class="resource-link">📄 Tutorial Sheets</a>
+        </div>
+      </li>
+
+      <li style="margin-top:20px;">
+        <span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b>
+        <div class="project-box">
+          <span class="project-title">🚀 Student Innovation Projects</span>
+          <a href="#" class="resource-link">📁 Smart City Grid Model</a>
+          <a href="#" class="resource-link">📁 PV Integration Study</a>
+        </div>
+      </li>
     </ul>
   </div>
 </div>
