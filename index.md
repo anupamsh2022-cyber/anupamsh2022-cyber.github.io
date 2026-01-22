@@ -335,12 +335,27 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
       Current Semester (2026)
     </div>
     <ul style="list-style:none; padding:0;">
+      
       <li class="course-item-container">
-        <span class="course-tag">EEC 206</span> <b>Power & Energy Engineering</b>
-      </li>
+  <span class="course-tag">EEC 206</span> <b style="font-size: 1.1em;">Power & Energy Engineering</b>
+  
+  <div class="project-box" style="border-left-color: #4da6ff;">
+    <span class="project-title">📚 Active Course Resources</span>
+    <p style="font-size: 0.85em; color: #cbd5e0; margin: 5px 0 10px 0;">
+      Core frameworks for Power Systems and Energy Conversion.
+    </p>
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+      <a href="YOUR_LECTURE1_LINK" class="resource-link">Lecture 1 Handout</a>
+      <a href="YOUR_LECTURE2_LINK" class="resource-link">Lecture 2 Handout</a>
+    </div>
+  </div>
+</li>
+      
       <li class="course-item-container">
         <span class="course-tag">EVE 208</span> <b>Analog Systems</b>
       </li>
+      
     </ul>
   </div>
 
@@ -387,11 +402,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
       <li class="course-item-container" style="border-top: 1px solid #3d446d; padding-top: 25px; margin-top: 30px;">
         <span class="course-tag">EVE 201</span> <b style="font-size: 1.1em;">Electrical Circuits & Networks</b>
                   
-          <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-            <a href="https://drive.google.com/file/d/1qDMkhz9DzY9TZ2p1jgd1VGzZ9G2f7Huv/view?usp=sharing" class="resource-link" style="border-color: #ffd700; color: #ffd700 !important;">📁 Incandescent Bulb</a>
-            
-          </div>
-        </div>
+    
       </li>
     </ul>
   </div>
