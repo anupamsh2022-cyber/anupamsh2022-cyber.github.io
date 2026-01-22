@@ -382,7 +382,12 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
         <span class="course-tag">EVE 208</span> <b>Analog Systems</b>
         <div class="project-box" style="border-left-color: #4da6ff;">
     <span class="project-title">📚 Active Course Resources</span>
-     
+     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+      <a href="https://drive.google.com/file/d/1w3_Q4SEDuAc_9N9OTFki89iyIa8DDZQn/view?usp=sharing" class="resource-link">Lecture 1 (Op-amp Overview) Handout</a>
+      <a href="https://drive.google.com/file/d/19NYFI1QnfRHcuYGqQCFF16vNIpXeY723/view?usp=sharing" class="resource-link">Lecture 2 (Op-amp Overview) Handout</a>
+      <a href="https://drive.google.com/file/d/1tYfQJwsKDxKIDSLW0jeuVKECFhJlg42w/view?usp=sharing" class="resource-link">Lecture 3 (Op-amp Overview) Handout</a>
+      
+    </div>
     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
      
       <a href="https://drive.google.com/file/d/1MZ_lKUCFu9hK0UXtzVeF-f8u_jf7X7Ap/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 Paper</a>
