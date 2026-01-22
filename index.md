@@ -438,7 +438,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
   
   <div class="project-box" style="border-left-color: #4da6ff;">
     <span class="project-title">📑 Course Resources</span>
-    <a href="https://drive.google.com/file/d/1icZUJseGWW1wIHXJJv1brDBUDAeeJrs-/view?usp=sharing" class="resource-link">Lab Manual</a>
+    <a href="https://drive.google.com/file/d/1MpNvY-1dcJMheWKnCUxPPhLf4ogVZvuH/view?usp=sharing" class="resource-link">Lab Manual</a>
     <a href="https://drive.google.com/file/d/15YuIidPokCKyR7rnbDjcm6wmNagPdIQe/view?usp=sharing" class="resource-link">Lab Videos</a>
   </div>
 
