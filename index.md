@@ -349,31 +349,31 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
     </div>
   </div>
 
-  <div class="project-box" style="border-left-color: #00ffcc; background: rgba(0, 255, 204, 0.03); padding-bottom: 15px; border-radius: 0 8px 8px 0;">
-  <span class="project-title" style="color: #00ffcc;">🔬 Power & Energy Research Group</span>
-  <p style="font-size: 0.85em; color: #cbd5e0; margin: 10px 0; line-height: 1.6;">
-    Investigating sustainable grid architectures and system resilience.
+  <div class="project-box" style="border-left: 2px solid #00ffcc; background: rgba(0, 255, 204, 0.05); padding: 20px; border-radius: 0 10px 10px 0; margin-top: 20px;">
+  <span class="project-title" style="color: #00ffcc; font-weight: 700; letter-spacing: 1px;">🔬 POWER & ENERGY RESEARCH GROUP</span>
+  <p style="font-size: 0.85em; color: #cbd5e0; margin: 10px 0 20px 0; line-height: 1.6;">
+    Supervising advanced research in sustainable grid architectures and system resilience.
   </p>
   
-  <table style="width: 100%; font-size: 0.85em; color: #ffffff; border-collapse: collapse; margin-top: 10px; background: rgba(26, 28, 44, 0.4);">
+  <table style="width: 100%; font-size: 0.9em; border-collapse: collapse; color: #ffffff;">
     <thead>
-      <tr style="border-bottom: 2px solid rgba(0, 255, 204, 0.3); text-align: left; background: rgba(0, 255, 204, 0.1);">
-        <th style="padding: 12px 10px; color: #00ffcc; font-weight: 700;">Group Member</th>
-        <th style="padding: 12px 10px; color: #00ffcc; font-weight: 700;">Research Project Title</th>
+      <tr style="text-align: left; background: rgba(0, 255, 204, 0.15);">
+        <th style="padding: 12px; color: #00ffcc; border-bottom: 2px solid #00ffcc;">Group Member</th>
+        <th style="padding: 12px; color: #00ffcc; border-bottom: 2px solid #00ffcc;">Research Project Title</th>
       </tr>
     </thead>
     <tbody>
-      <tr style="border-bottom: 1px solid rgba(255, 255, 255, 0.1);">
-        <td style="padding: 12px 10px; font-weight: 600; color: #ffffff;">Manoj S.</td>
-        <td style="padding: 12px 10px; color: #cbd5e0; font-style: italic;">"Analysis of Microgrid Stability under Variable Load"</td>
+      <tr style="border-bottom: 1px solid #3d446d; transition: 0.3s;" onmouseover="this.style.backgroundColor='rgba(255,255,255,0.05)'" onmouseout="this.style.backgroundColor='transparent'">
+        <td style="padding: 15px 12px; font-weight: 600;">Manoj S.</td>
+        <td style="padding: 15px 12px; color: #cbd5e0; font-style: italic;">"Analysis of Microgrid Stability under Variable Load"</td>
       </tr>
-      <tr style="border-bottom: 1px solid rgba(255, 255, 255, 0.1);">
-        <td style="padding: 12px 10px; font-weight: 600; color: #ffffff;">Priyanka K.</td>
-        <td style="padding: 12px 10px; color: #cbd5e0; font-style: italic;">"AI-Driven Load Forecasting for Urban Residential Grids"</td>
+      <tr style="border-bottom: 1px solid #3d446d; transition: 0.3s;" onmouseover="this.style.backgroundColor='rgba(255,255,255,0.05)'" onmouseout="this.style.backgroundColor='transparent'">
+        <td style="padding: 15px 12px; font-weight: 600;">Priyanka K.</td>
+        <td style="padding: 15px 12px; color: #cbd5e0; font-style: italic;">"AI-Driven Load Forecasting for Urban Residential Grids"</td>
       </tr>
-      <tr style="border-bottom: 1px solid rgba(255, 255, 255, 0.1);">
-        <td style="padding: 12px 10px; font-weight: 600; color: #ffffff;">Rajesh V.</td>
-        <td style="padding: 12px 10px; color: #cbd5e0; font-style: italic;">"Impact of EV Charging Stations on Transformer Health"</td>
+      <tr style="border-bottom: 1px solid #3d446d; transition: 0.3s;" onmouseover="this.style.backgroundColor='rgba(255,255,255,0.05)'" onmouseout="this.style.backgroundColor='transparent'">
+        <td style="padding: 15px 12px; font-weight: 600;">Rajesh V.</td>
+        <td style="padding: 15px 12px; color: #cbd5e0; font-style: italic;">"Impact of EV Charging Stations on Transformer Health"</td>
       </tr>
     </tbody>
   </table>
