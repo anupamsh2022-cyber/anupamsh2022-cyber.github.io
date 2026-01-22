@@ -294,54 +294,66 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
   .resource-link {
     display: inline-flex;
     align-items: center;
-    background: rgba(77, 166, 255, 0.1);
-    border: 1px solid rgba(77, 166, 255, 0.3);
+    background: rgba(77, 166, 255, 0.08);
+    border: 1px solid rgba(77, 166, 255, 0.2);
     color: #4da6ff !important;
-    padding: 4px 10px;
-    border-radius: 5px;
-    font-size: 0.8em;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 0.85em;
     text-decoration: none;
-    margin-top: 8px;
+    margin-top: 10px;
     transition: 0.3s;
-    margin-right: 8px;
+    margin-right: 10px;
   }
   .resource-link:hover {
-    background: rgba(77, 166, 255, 0.2);
+    background: rgba(77, 166, 255, 0.15);
     border-color: #4da6ff;
+    transform: translateY(-2px);
   }
   .project-box {
-    margin-top: 10px;
-    padding-top: 10px;
-    border-top: 1px dashed #3d446d;
+    margin-top: 20px;
+    padding-left: 15px;
+    border-left: 2px solid #3d446d; /* Added a vertical line for better structure */
   }
   .project-title {
-    font-size: 0.85em;
+    font-size: 0.9em;
+    font-weight: 600;
     color: #82aaff;
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .course-item-container {
+    margin-bottom: 30px;
   }
 </style>
 
 <div class="course-container">
   <div class="semester-box">
-    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Current Semester (2026)</div>
-    <ul style="list-style:none; padding:0; font-size:0.95em;">
-      <li>
+    <div style="color:#4da6ff; font-weight:bold; margin-bottom:15px; font-size: 1.1em; border-bottom: 1px solid #3d446d; padding-bottom: 5px;">
+      Current Semester (2026)
+    </div>
+    <ul style="list-style:none; padding:0;">
+      <li class="course-item-container">
         <span class="course-tag">EEC 206</span> <b>Power & Energy Engineering</b>
       </li>
-      <li style="margin-top:15px;">
+      <li class="course-item-container">
         <span class="course-tag">EVE 208</span> <b>Analog Systems</b>
       </li>
     </ul>
   </div>
 
   <div class="semester-box">
-    <div style="color:#4da6ff; font-weight:bold; margin-bottom:10px;">Previous Semester (2025)</div>
-    <ul style="list-style:none; padding:0; font-size:0.95em;">
-      <li>
-        <span class="course-tag">EBS 105</span> <b>Engineering Mathematics III</b>
+    <div style="color:#4da6ff; font-weight:bold; margin-bottom:15px; font-size: 1.1em; border-bottom: 1px solid #3d446d; padding-bottom: 5px;">
+      Previous Semester (2025)
+    </div>
+    <ul style="list-style:none; padding:0;">
+      
+      <li class="course-item-container">
+        <span class="course-tag">EBS 105</span> <b style="font-size: 1.1em;">Engineering Mathematics III</b>
         
-        <div class="project-box">
+        <div class="project-box" style="border-left-color: #4da6ff;">
           <span class="project-title">📑 Course Handouts</span>
           <a href="https://drive.google.com/file/d/1pPQ9Hb1LsV7vNUL05UflZ9BNbnYdtAfr/view?usp=sharing" class="resource-link">Module 1</a>
           <a href="https://drive.google.com/file/d/1I9osa5VRPm9-WgI5XPhP49ZDCP6l6H8v/view?usp=sharing" class="resource-link">Module 2</a>
@@ -349,39 +361,33 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
           <a href="https://drive.google.com/file/d/1hkcCUNMupXrSfPFgP4GpyfXC8_2ZCsqj/view?usp=sharing" class="resource-link">Module 4</a>
         </div>
 
-        <div class="project-box" style="border-top: none; margin-top: 5px;">
-          <span class="project-title">📝 Practice Sets</span>
+        <div class="project-box" style="border-left-color: #3d446d;">
+          <span class="project-title">📝 Practice & Assessment</span>
           <a href="https://drive.google.com/file/d/1FUlFmL2o6mHJBfdZJWqzAnYAsDVGQE4G/view?usp=sharing" class="resource-link">Tutesheet 1</a>
           <a href="https://drive.google.com/file/d/1pUFKXvwGb_xbJPpaRBo48DtKUZ-hG-dV/view?usp=sharing" class="resource-link">Tutesheet 2</a>
-        </div>
-        <div class="project-box" style="border-top: 1px dashed #3d446d; margin-top: 10px; padding-top: 10px;">
-          <span class="project-title">🎯 Assessment Archive</span>
           <a href="https://drive.google.com/file/d/1A1GTUVFAz75ApxzmyMeI3LZcZj0SQKSL/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">Mid-Sem Paper</a>
           <a href="https://drive.google.com/file/d/1arKXuai_l1WCrmfcECOg51B_pGMzwhaA/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">End-Sem Paper</a>
         </div>
-        <div class="project-box" style="border-top: 1px dashed #ffd700; margin-top: 10px; padding-top: 10px;">
-  <span class="project-title" style="color: #ffd700;">🚀 Student Innovation & Research Showcase</span>
-  
-  <p style="font-size: 0.85em; color: #cbd5e0; margin: 8px 0; line-height: 1.5;">
-    Mentored <b>42 students</b> in applying Mathematical Modeling to real-world engineering challenges.
-  </p>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-    <a href="https://drive.google.com/drive/folders/1m40JeT4f-BFwqWuPyEwQs3OP4uCZjTQL?usp=sharing" class="resource-link" style="border-color: #ffd700; color: #ffd700 !important; font-weight: bold; padding: 6px 15px;">
-      📂 View All 42 Project Reports
-    </a>
-    
-    <a href="https://drive.google.com/file/d/1gLUrvtWevzw-nzK8IwwdEvq6kv4dBRQW/view?usp=sharing" class="resource-link" style="font-size: 0.75em;">🌟 Featured: Mathematical Modelling and Simulation of 3D Rocket Launch Dynamics</a>
-    <a href="https://drive.google.com/file/d/1k_AZxUBp_vlZCZJHkYD8pZTI6_oI8IPV/view?usp=sharing" class="resource-link" style="font-size: 0.75em;">🌟 Featured: Modelling of a Quarter Car Suspension System using Mass Spring Damper Model</a>
-  </div>
-</div>
+        <div class="project-box" style="border-left-color: #ffd700; background: rgba(255, 215, 0, 0.03); padding-bottom: 15px; border-radius: 0 8px 8px 0;">
+          <span class="project-title" style="color: #ffd700;">🚀 Student Innovation Showcase</span>
+          <p style="font-size: 0.85em; color: #cbd5e0; margin: 10px 0; line-height: 1.6;">
+            Mentored <b>42 students</b> in mathematical modeling applications.
+          </p>
+          <a href="https://drive.google.com/drive/folders/1m40JeT4f-BFwqWuPyEwQs3OP4uCZjTQL?usp=sharing" class="resource-link" style="border-color: #ffd700; color: #ffd700 !important; font-weight: bold; padding: 8px 16px;">
+            📂 View All 42 Reports
+          </a>
+          <div style="margin-top: 12px;">
+             <a href="https://drive.google.com/file/d/1gLUrvtWevzw-nzK8IwwdEvq6kv4dBRQW/view?usp=sharing" class="resource-link" style="font-size: 0.75em; opacity: 0.9;">🌟 Featured: 3D Rocket Dynamics</a>
+             <a href="https://drive.google.com/file/d/1k_AZxUBp_vlZCZJHkYD8pZTI6_oI8IPV/view?usp=sharing" class="resource-link" style="font-size: 0.75em; opacity: 0.9;">🌟 Featured: Quarter Car Suspension</a>
+          </div>
+        </div>
       </li>
-      
 
-      <li style="margin-top:20px;">
+      <li class="course-item-container" style="border-top: 1px solid #3d446d; padding-top: 20px;">
         <span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b>
-        <div class="project-box">
-          <span class="project-title">🚀 Student Innovation Projects</span>
+        <div class="project-box" style="border-left-color: #4da6ff;">
+          <span class="project-title">🚀 Student Projects</span>
           <a href="#" class="resource-link">📁 Smart City Grid Model</a>
           <a href="#" class="resource-link">📁 PV Integration Study</a>
         </div>
