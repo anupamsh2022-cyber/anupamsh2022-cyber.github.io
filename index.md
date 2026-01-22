@@ -340,12 +340,22 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
     <ul style="list-style:none; padding:0; font-size:0.95em;">
       <li>
         <span class="course-tag">EBS 105</span> <b>Engineering Mathematics III</b>
+        
         <div class="project-box">
-          <span class="project-title">📑 Course Materials</span>
-          <a href="EBS105_Handout.pdf" class="resource-link">📥 Lecture Handouts</a>
-          <a href="#" class="resource-link">📄 Tutorial Sheets</a>
+          <span class="project-title">📑 Course Handouts</span>
+          <a href="https://drive.google.com/file/d/1pPQ9Hb1LsV7vNUL05UflZ9BNbnYdtAfr/view?usp=sharing" class="resource-link">Module 1</a>
+          <a href="https://drive.google.com/file/d/1I9osa5VRPm9-WgI5XPhP49ZDCP6l6H8v/view?usp=sharing" class="resource-link">Module 2</a>
+          <a href="https://drive.google.com/file/d/1RENXKVLqOhgRMB2gaKYpaA43gADfv1PO/view?usp=sharing" class="resource-link">Module 3</a>
+          <a href="https://drive.google.com/file/d/1hkcCUNMupXrSfPFgP4GpyfXC8_2ZCsqj/view?usp=sharing" class="resource-link">Module 4</a>
+        </div>
+
+        <div class="project-box" style="border-top: none; margin-top: 5px;">
+          <span class="project-title">📝 Practice Sets</span>
+          <a href="https://drive.google.com/file/d/1FUlFmL2o6mHJBfdZJWqzAnYAsDVGQE4G/view?usp=sharing" class="resource-link">Tutesheet 1</a>
+          <a href="https://drive.google.com/file/d/1pUFKXvwGb_xbJPpaRBo48DtKUZ-hG-dV/view?usp=sharing" class="resource-link">Tutesheet 2</a>
         </div>
       </li>
+      
 
       <li style="margin-top:20px;">
         <span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b>
