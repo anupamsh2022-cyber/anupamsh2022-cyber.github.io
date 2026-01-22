@@ -388,7 +388,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
         <span class="course-tag">EVE 201</span> <b>Electrical Circuits & Networks</b>
         <div class="project-box" style="border-left-color: #4da6ff;">
           <span class="project-title">🚀 Student Projects</span>
-          <a href="#" class="https://drive.google.com/file/d/1qDMkhz9DzY9TZ2p1jgd1VGzZ9G2f7Huv/view?usp=sharing">📁 Incandescent Bulb</a>
+          <a href="https://drive.google.com/file/d/1qDMkhz9DzY9TZ2p1jgd1VGzZ9G2f7Huv/view?usp=sharing" class="resource-link" style="font-size: 0.75em; opacity: 0.9;">🌟 Featured: Incadescent Lab</a>
         </div>
       </li>
     </ul>
