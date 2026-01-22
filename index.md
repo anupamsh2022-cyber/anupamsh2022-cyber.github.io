@@ -371,8 +371,8 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
       📂 View All 42 Project Reports
     </a>
     
-    <a href="https://drive.google.com/file/d/1gLUrvtWevzw-nzK8IwwdEvq6kv4dBRQW/view?usp=sharing" class="resource-link" style="font-size: 0.75em;">🌟 Featured: Grid Load Analysis</a>
-    <a href="https://drive.google.com/file/d/1k_AZxUBp_vlZCZJHkYD8pZTI6_oI8IPV/view?usp=sharing" class="resource-link" style="font-size: 0.75em;">🌟 Featured: Signal Processing Model</a>
+    <a href="https://drive.google.com/file/d/1gLUrvtWevzw-nzK8IwwdEvq6kv4dBRQW/view?usp=sharing" class="resource-link" style="font-size: 0.75em;">🌟 Featured: Mathematical Modelling and Simulation of 3D Rocket Launch Dynamics</a>
+    <a href="https://drive.google.com/file/d/1k_AZxUBp_vlZCZJHkYD8pZTI6_oI8IPV/view?usp=sharing" class="resource-link" style="font-size: 0.75em;">🌟 Featured: Modelling of a Quarter Car Suspension System using Mass Spring Damper Model</a>
   </div>
 </div>
       </li>
