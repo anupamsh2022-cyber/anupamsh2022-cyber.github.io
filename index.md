@@ -334,13 +334,16 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
   </div>
 </div>
 
-<div style="text-align: center; padding: 60px 20px; max-width: 800px; margin: 0 auto;">
-  <hr style="opacity: 0.1; margin-bottom: 40px;">
-  <h3 style="color: #4da6ff !important; font-size: 1.4em; margin-bottom: 15px;">✨ Closing Thought</h3>
-  <p style="font-style: italic; color: #cbd5e0; line-height: 1.8; font-size: 1.1em;">
+<div style="text-align: center; padding: 80px 20px; max-width: 850px; margin: 0 auto;">
+  <hr style="opacity: 0.1; margin-bottom: 50px; border: 0; border-top: 1px solid #4da6ff;">
+  
+  <p style="font-style: italic; color: #82aaff; line-height: 1.9; font-size: 1.2em; margin-bottom: 30px;">
     "In the grid, as in life, resilience is not just about resisting the storm, but about having the internal architecture to keep the light burning when the world goes dark. Whether I am securing a power system or mentoring a student, my goal remains the same: to build systems—and souls—that are unbreakable."
   </p>
-  <div style="margin-top: 20px; color: #82aaff; font-weight: bold; letter-spacing: 2px; font-size: 0.9em;">
-    ANUPAM SHARMA
+  
+  <div style="color: #ffffff; font-weight: 700; letter-spacing: 4px; font-size: 0.8em; text-transform: uppercase; opacity: 0.8;">
+    Anupam Sharma
+  </div>
+</div>
   </div>
 </div>
