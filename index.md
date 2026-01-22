@@ -354,6 +354,11 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
           <a href="https://drive.google.com/file/d/1FUlFmL2o6mHJBfdZJWqzAnYAsDVGQE4G/view?usp=sharing" class="resource-link">Tutesheet 1</a>
           <a href="https://drive.google.com/file/d/1pUFKXvwGb_xbJPpaRBo48DtKUZ-hG-dV/view?usp=sharing" class="resource-link">Tutesheet 2</a>
         </div>
+        <div class="project-box" style="border-top: 1px dashed #3d446d; margin-top: 10px; padding-top: 10px;">
+          <span class="project-title">🎯 Assessment Archive</span>
+          <a href="https://drive.google.com/file/d/1A1GTUVFAz75ApxzmyMeI3LZcZj0SQKSL/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">Mid-Sem Paper</a>
+          <a href="https://drive.google.com/file/d/1arKXuai_l1WCrmfcECOg51B_pGMzwhaA/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">End-Sem Paper</a>
+        </div>
       </li>
       
 
