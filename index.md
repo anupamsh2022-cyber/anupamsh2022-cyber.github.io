@@ -191,10 +191,10 @@ title: Anupam Sharma
 </style>
 
 <div class="navbar">
-  <a href="#research">Research</a>
   <a href="#skills">Skills</a>
   <a href="#pedagogy">Pedagogy</a>
-  <a href="#teaching-portfolio">Teaching</a> <a href="#activities">Activities</a>
+  <a href="#teaching-portfolio">Teaching</a> 
+  <a href="#activities">Activities</a>
 </div>
 
 <div class="profile-container">
