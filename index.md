@@ -345,6 +345,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
       <a href="https://drive.google.com/file/d/1gno0vbTaHJ9TO_xrS9dujNnhCGPwxVYW/view?usp=sharing" class="resource-link">Lecture 1 (Energy scenario in KARNATAKA) Handout</a>
       <a href="https://drive.google.com/file/d/1qqxNkeUaeQMwT8CTcod_krdLyCIFLo1E/view?usp=sharing" class="resource-link">Lecture 2 (Energy scenario in INDIA) Handout</a>
+      <a href="https://drive.google.com/file/d/1hUTMhjqRDcAgFi0Ujqo4jI5fiQBdHPfL/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 Paper</a>
     </div>
   </div>
 </li>
