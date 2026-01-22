@@ -352,6 +352,14 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
       
       <li class="course-item-container">
         <span class="course-tag">EVE 208</span> <b>Analog Systems</b>
+        <div class="project-box" style="border-left-color: #4da6ff;">
+    <span class="project-title">📚 Active Course Resources</span>
+      
+    <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+      
+      <a href="https://drive.google.com/file/d/1MZ_lKUCFu9hK0UXtzVeF-f8u_jf7X7Ap/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 Paper</a>
+    </div>
+  </div>
       </li>
       
     </ul>
