@@ -359,6 +359,22 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
           <a href="https://drive.google.com/file/d/1A1GTUVFAz75ApxzmyMeI3LZcZj0SQKSL/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">Mid-Sem Paper</a>
           <a href="https://drive.google.com/file/d/1arKXuai_l1WCrmfcECOg51B_pGMzwhaA/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">End-Sem Paper</a>
         </div>
+        <div class="project-box" style="border-top: 1px dashed #ffd700; margin-top: 10px; padding-top: 10px;">
+  <span class="project-title" style="color: #ffd700;">🚀 Student Innovation & Research Showcase</span>
+  
+  <p style="font-size: 0.85em; color: #cbd5e0; margin: 8px 0; line-height: 1.5;">
+    Mentored <b>42 students</b> in applying Mathematical Modeling to real-world engineering challenges.
+  </p>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+    <a href="https://drive.google.com/drive/folders/1m40JeT4f-BFwqWuPyEwQs3OP4uCZjTQL?usp=sharing" class="resource-link" style="border-color: #ffd700; color: #ffd700 !important; font-weight: bold; padding: 6px 15px;">
+      📂 View All 42 Project Reports
+    </a>
+    
+    <a href="https://drive.google.com/file/d/1gLUrvtWevzw-nzK8IwwdEvq6kv4dBRQW/view?usp=sharing" class="resource-link" style="font-size: 0.75em;">🌟 Featured: Grid Load Analysis</a>
+    <a href="https://drive.google.com/file/d/1k_AZxUBp_vlZCZJHkYD8pZTI6_oI8IPV/view?usp=sharing" class="resource-link" style="font-size: 0.75em;">🌟 Featured: Signal Processing Model</a>
+  </div>
+</div>
       </li>
       
 
