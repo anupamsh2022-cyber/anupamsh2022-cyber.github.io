@@ -58,17 +58,25 @@ title: Anupam Sharma
   .profile-container {
     display: flex;
     align-items: center;
-    gap: 25px;
+    gap: 30px;
     flex-wrap: wrap;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
 
   .profile-img {
-    width: 150px !important;
+    width: 160px !important;
     height: auto;
     border-radius: 12px;
     border: 2px solid #4da6ff;
-    object-fit: cover;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  }
+
+  .name-heading {
+    font-size: 2.8em;
+    font-weight: 800;
+    margin: 0;
+    color: #ffffff;
+    letter-spacing: -1px;
   }
 
   /* 5. Research Cards */
@@ -192,8 +200,9 @@ title: Anupam Sharma
 <div class="profile-container">
   <img src="profile.jpg" class="profile-img" alt="Anupam Sharma">
   <div>
-    <h2 style="margin:0;">Assistant Professor</h2>
-    <div style="margin-top:10px;">
+    <h1 class="name-heading">Anupam Sharma</h1>
+    <h3 style="margin:5px 0 15px 0; color:#4da6ff !important; font-weight:400;">Assistant Professor</h3>
+    <div>
       <span class="tag-box">Chanakya University</span>
       <span class="tag-box">Bengaluru, India</span>
     </div>
@@ -260,8 +269,6 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
 
 <h2 id="pedagogy">📖 Pedagogy</h2>
 
-
-
 <div class="pedagogy-depth-box">
   <span class="philosophy-quote">
     "Education is not the filling of a pail, but the lighting of a fire—a fire that must illuminate both the circuit and the soul."
@@ -327,8 +334,13 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
   </div>
 </div>
 
-<div style="background: rgba(77, 166, 255, 0.05); padding: 30px; border-radius: 15px; text-align: center; margin-top: 50px; border: 1px solid #3d446d;">
-  <p style="margin: 0; color: #cbd5e0; font-size: 1em; letter-spacing: 1px;">
-    <b>VISION 2026:</b> Bridging the gap between <i>Technical Rigor</i> and <i>Human Wisdom</i> to power the next generation of resilient thinkers.
+<div style="text-align: center; padding: 60px 20px; max-width: 800px; margin: 0 auto;">
+  <hr style="opacity: 0.1; margin-bottom: 40px;">
+  <h3 style="color: #4da6ff !important; font-size: 1.4em; margin-bottom: 15px;">✨ Closing Thought</h3>
+  <p style="font-style: italic; color: #cbd5e0; line-height: 1.8; font-size: 1.1em;">
+    "In the grid, as in life, resilience is not just about resisting the storm, but about having the internal architecture to keep the light burning when the world goes dark. Whether I am securing a power system or mentoring a student, my goal remains the same: to build systems—and souls—that are unbreakable."
   </p>
+  <div style="margin-top: 20px; color: #82aaff; font-weight: bold; letter-spacing: 2px; font-size: 0.9em;">
+    ANUPAM SHARMA
+  </div>
 </div>
