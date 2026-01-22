@@ -364,16 +364,12 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #3d446d; transition: 0.3s;" onmouseover="this.style.backgroundColor='rgba(255,255,255,0.05)'" onmouseout="this.style.backgroundColor='transparent'">
-        <td style="padding: 15px 12px; font-weight: 600;">Manoj S.</td>
-        <td style="padding: 15px 12px; color: #cbd5e0; font-style: italic;">"Analysis of Microgrid Stability under Variable Load"</td>
+        <td style="padding: 15px 12px; font-weight: 600;">Monish Y</td>
+        <td style="padding: 15px 12px; color: #cbd5e0; font-style: italic;">"132/33kV Substation Design with Protection Schemes."</td>
       </tr>
       <tr style="border-bottom: 1px solid #3d446d; transition: 0.3s;" onmouseover="this.style.backgroundColor='rgba(255,255,255,0.05)'" onmouseout="this.style.backgroundColor='transparent'">
-        <td style="padding: 15px 12px; font-weight: 600;">Priyanka K.</td>
-        <td style="padding: 15px 12px; color: #cbd5e0; font-style: italic;">"AI-Driven Load Forecasting for Urban Residential Grids"</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #3d446d; transition: 0.3s;" onmouseover="this.style.backgroundColor='rgba(255,255,255,0.05)'" onmouseout="this.style.backgroundColor='transparent'">
-        <td style="padding: 15px 12px; font-weight: 600;">Rajesh V.</td>
-        <td style="padding: 15px 12px; color: #cbd5e0; font-style: italic;">"Impact of EV Charging Stations on Transformer Health"</td>
+        <td style="padding: 15px 12px; font-weight: 600;">Supriya A Mahajan, Manikanta RA, Shrusti J </td>
+        <td style="padding: 15px 12px; color: #cbd5e0; font-style: italic;">"Block Chain Peer-to-Peer Energy Trading in Prosumer Centric Society"</td>
       </tr>
     </tbody>
   </table>
