@@ -177,7 +177,7 @@ title: Anupam Sharma
     <h3 style="margin:5px 0 15px 0; color:#4da6ff !important; font-weight:400;">Assistant Professor</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap;">
       <span class="tag-box">
-        <img src="chanakya_logo.png" alt="CU" style="height: 18px; width: auto;">
+        <img src="logo_cu.png" alt="CU" style="height: 18px; width: auto;">
         Chanakya University
       </span>
       <span class="tag-box">Bengaluru, India</span>
