@@ -350,30 +350,35 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
   </div>
 
   <div class="project-box" style="border-left-color: #00ffcc; background: rgba(0, 255, 204, 0.03); padding-bottom: 15px; border-radius: 0 8px 8px 0;">
-    <span class="project-title" style="color: #00ffcc;">🔬 Power & Energy Research Group</span>
-    <p style="font-size: 0.85em; color: #cbd5e0; margin: 10px 0; line-height: 1.6;">
-      Investigating sustainable grid architectures and system resilience.
-    </p>
-    
-    <table style="width: 100%; font-size: 0.8em; color: #cbd5e0; border-collapse: collapse; margin-top: 10px;">
-      <tr style="border-bottom: 1px solid rgba(0, 255, 204, 0.2); text-align: left;">
-        <th style="padding: 8px 5px; color: #00ffcc;">Group Member</th>
-        <th style="padding: 8px 5px; color: #00ffcc;">Research Project Title</th>
+  <span class="project-title" style="color: #00ffcc;">🔬 Power & Energy Research Group</span>
+  <p style="font-size: 0.85em; color: #cbd5e0; margin: 10px 0; line-height: 1.6;">
+    Investigating sustainable grid architectures and system resilience.
+  </p>
+  
+  <table style="width: 100%; font-size: 0.85em; color: #ffffff; border-collapse: collapse; margin-top: 10px; background: rgba(26, 28, 44, 0.4);">
+    <thead>
+      <tr style="border-bottom: 2px solid rgba(0, 255, 204, 0.3); text-align: left; background: rgba(0, 255, 204, 0.1);">
+        <th style="padding: 12px 10px; color: #00ffcc; font-weight: 700;">Group Member</th>
+        <th style="padding: 12px 10px; color: #00ffcc; font-weight: 700;">Research Project Title</th>
       </tr>
-      <tr>
-        <td style="padding: 10px 5px;">Member Name 1</td>
-        <td style="padding: 10px 5px; font-style: italic;">"Analysis of Microgrid Stability under Variable Load"</td>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid rgba(255, 255, 255, 0.1);">
+        <td style="padding: 12px 10px; font-weight: 600; color: #ffffff;">Manoj S.</td>
+        <td style="padding: 12px 10px; color: #cbd5e0; font-style: italic;">"Analysis of Microgrid Stability under Variable Load"</td>
       </tr>
-      <tr>
-        <td style="padding: 10px 5px;">Member Name 2</td>
-        <td style="padding: 10px 5px; font-style: italic;">"AI-Driven Load Forecasting for Urban Residential Grids"</td>
+      <tr style="border-bottom: 1px solid rgba(255, 255, 255, 0.1);">
+        <td style="padding: 12px 10px; font-weight: 600; color: #ffffff;">Priyanka K.</td>
+        <td style="padding: 12px 10px; color: #cbd5e0; font-style: italic;">"AI-Driven Load Forecasting for Urban Residential Grids"</td>
       </tr>
-      <tr>
-        <td style="padding: 10px 5px;">Member Name 3</td>
-        <td style="padding: 10px 5px; font-style: italic;">"Impact of EV Charging Stations on Transformer Health"</td>
+      <tr style="border-bottom: 1px solid rgba(255, 255, 255, 0.1);">
+        <td style="padding: 12px 10px; font-weight: 600; color: #ffffff;">Rajesh V.</td>
+        <td style="padding: 12px 10px; color: #cbd5e0; font-style: italic;">"Impact of EV Charging Stations on Transformer Health"</td>
       </tr>
-    </table>
-  </div>
+    </tbody>
+  </table>
+</div>
+
   
 </li>
       
