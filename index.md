@@ -503,7 +503,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
   </div>
  
   <p style="font-style: italic; color: #cbd5e0; line-height: 1.9; font-size: 1.15em; margin-bottom: 30px;">
-    "In the grid, as in life, resilience is not just about resisting the storm, but about having the internal architecture to keep the light burning when the world goes dark. Whether I am securing a power system or mentoring a student, my goal remains the same: to build systems—and souls—that are unbreakable."
+    "In the grid, as in life, resilience is not just about resisting the storm, but about having the internal architecture to keep the light burning when the world goes dark. Whether I am securing a power system or mentoring a student, my goal remains the same: to build systems and souls that are unbreakable."
   </p>
  
   <div style="color: #ffffff; font-weight: 700; letter-spacing: 5px; font-size: 0.75em; text-transform: uppercase; opacity: 0.7;">
