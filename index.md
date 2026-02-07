@@ -343,10 +343,13 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
     <span class="project-title">📚 Active Course Resources</span>
      
     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-      <a href="https://drive.google.com/file/d/1gno0vbTaHJ9TO_xrS9dujNnhCGPwxVYW/view?usp=sharing" class="resource-link">Lecture 1 (Energy scenario in KARNATAKA) Handout</a>
-      <a href="https://drive.google.com/file/d/1qqxNkeUaeQMwT8CTcod_krdLyCIFLo1E/view?usp=sharing" class="resource-link">Lecture 2 (Energy scenario in INDIA) Handout</a>
-      <a href="https://drive.google.com/file/d/1uudVcruKGfxvlLDEQ15pRQo-_OswYREY/view?usp=sharing" class="resource-link">Lecture 3 (Power and Energy: Introduction) Handout</a>
-      <a href="https://drive.google.com/file/d/1pQ3BpvZVtf9I8g30f3VRnicG6SdMUTCV/view?usp=sharing" class="resource-link">Lecture 4 (Single Line Diagram: Introduction) Handout</a>
+      <a href="https://drive.google.com/file/d/1gno0vbTaHJ9TO_xrS9dujNnhCGPwxVYW/view?usp=sharing" class="resource-link">Lecture 1 (Energy scenario in KARNATAKA) </a>
+      <a href="https://drive.google.com/file/d/1qqxNkeUaeQMwT8CTcod_krdLyCIFLo1E/view?usp=sharing" class="resource-link">Lecture 2 (Energy scenario in INDIA) </a>
+      <a href="https://drive.google.com/file/d/1uudVcruKGfxvlLDEQ15pRQo-_OswYREY/view?usp=sharing" class="resource-link">Lecture 3 (Power and Energy: Introduction) </a>
+      <a href="https://drive.google.com/file/d/1pQ3BpvZVtf9I8g30f3VRnicG6SdMUTCV/view?usp=sharing" class="resource-link">Lecture 4 (Single Line Diagram: Introduction) </a>
+      <a href="https://drive.google.com/file/d/1Iv2dgTpbG1TD2rwBIXrv3cD_tX9goCpC/view?usp=sharing" class="resource-link">Lecture 5 (Types of Power: Introduction) </a>
+      <a href="https://drive.google.com/file/d/1rG3ysOMrwJsiBiKQYAPKgTPKUMXgTwVe/view?usp=sharing" class="resource-link">Lecture 6 (Substation Design: Introduction) </a>      
+      <a href="https://drive.google.com/file/d/1CrExLtX5qykALfNfxS21V75wJUh8pDQb/view?usp=sharing" class="resource-link">Lecture 7 (Solar Energy: Introduction) </a>
       <a href="https://drive.google.com/file/d/1hUTMhjqRDcAgFi0Ujqo4jI5fiQBdHPfL/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 Paper</a>
     </div>
   </div>
