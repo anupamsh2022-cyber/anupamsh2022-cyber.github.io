@@ -350,7 +350,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
       <a href="https://drive.google.com/file/d/1Iv2dgTpbG1TD2rwBIXrv3cD_tX9goCpC/view?usp=sharing" class="resource-link">Lecture 5 (Types of Power: Introduction) </a>
       <a href="https://drive.google.com/file/d/1rG3ysOMrwJsiBiKQYAPKgTPKUMXgTwVe/view?usp=sharing" class="resource-link">Lecture 6 (Substation Design: Introduction) </a>      
       <a href="https://drive.google.com/file/d/1_aaCaXAnod8cmdofwzot_D35iqvETFqR/view?usp=sharing" class="resource-link">Lecture 7 (Solar Energy: Introduction) </a>
-      <a href="https://drive.google.com/file/d/1O3Rhe8WUcD4hMHbKu8RevMminCXFf8Ws/view?usp=sharing" class="resource-link">Lecture 8 (Sun and Earth Relationship) </a>
+      <a href="https://drive.google.com/file/d/1hL6UTfpc5gfEoy-D7KSchB2Z-kZqEzlP/view?usp=sharing" class="resource-link">Lecture 8 (Sun and Earth Relationship) </a>
       <a href="https://drive.google.com/file/d/1g1bUb8EWg4GVMnAyg4dxDD0Q4B4F3z73/view?usp=sharing" class="resource-link">Lecture 9 (Hybrid Energy Systems) </a>
       <a href="https://drive.google.com/file/d/1nUeKXHbtk8oqgTQwvELP8swvoB2f1l7L/view?usp=sharing" class="resource-link">Lecture 10 (Floating Solar PV) </a>
       <a href="https://drive.google.com/file/d/1hUTMhjqRDcAgFi0Ujqo4jI5fiQBdHPfL/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 Paper</a>
