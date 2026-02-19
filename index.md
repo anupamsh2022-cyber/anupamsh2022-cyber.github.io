@@ -396,6 +396,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
       <a href="https://drive.google.com/file/d/1tYfQJwsKDxKIDSLW0jeuVKECFhJlg42w/view?usp=sharing" class="resource-link">Lecture 3 (Op-amp Overview) </a>
       <a href="https://drive.google.com/file/d/1rL17IPWzfIn_ZBn7ghhZlNcHf_Gmf8DC/view?usp=sharing" class="resource-link">Lecture 4 (Active Filter Design Overview) </a>
       <a href="https://drive.google.com/file/d/1Jhdm6A4z7aMQsjXm7TubS0I1HO1ESp75/view?usp=sharing" class="resource-link">Lecture 5 (Transfer Function) </a>
+      <a href="https://drive.google.com/file/d/15rFhlgN5Di4OINzlE1MbDphNsVJXkQzb/view?usp=sharing" class="resource-link">Lecture 6 (Sallen Key Filter) </a>
       
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
