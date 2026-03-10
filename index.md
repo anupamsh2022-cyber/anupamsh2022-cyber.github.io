@@ -354,6 +354,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
       <a href="https://drive.google.com/file/d/1g1bUb8EWg4GVMnAyg4dxDD0Q4B4F3z73/view?usp=sharing" class="resource-link">Lecture 9 (Hybrid Energy Systems) </a>
       <a href="https://drive.google.com/file/d/1nUeKXHbtk8oqgTQwvELP8swvoB2f1l7L/view?usp=sharing" class="resource-link">Lecture 10 (Floating Solar PV) </a>
       <a href="https://drive.google.com/file/d/1ooSkJ0lRwlUglWq_KZlIMrLzx_7nivPU/view?usp=sharing" class="resource-link">Lecture 11 (Batteries: Introduction) </a>
+      <a href="https://drive.google.com/file/d/1b6wzQb7d2FPLwERLN7z_6pZPuuU2BUNt/view?usp=sharing" class="resource-link">Lecture 11 (Battery EV: Introduction) </a>
       <a href="https://drive.google.com/file/d/1hqFseElJByN74FiA2VsU4F-fWz2o3Qcx/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 Paper</a>
       <a href="https://drive.google.com/file/d/1KAnIWr-x4j7zJzYPO2rL1qmf0dbbdK0p/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 2 Paper</a>
       <a href="https://drive.google.com/file/d/1xeoIZAcPeGTTPMwpjib9up39PPMnwnOI/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 3 Paper</a>
