@@ -359,6 +359,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
       <a href="https://drive.google.com/file/d/1KAnIWr-x4j7zJzYPO2rL1qmf0dbbdK0p/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 2 Paper</a>
       <a href="https://drive.google.com/file/d/1xeoIZAcPeGTTPMwpjib9up39PPMnwnOI/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 3 Paper</a>
       <a href="https://drive.google.com/file/d/1_QQmDCLSJ6ZQKWWUsQbDUsbIs4YJLhIU/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 4 Paper</a>
+       <a href="https://drive.google.com/file/d/1g5ty5owKQw41X13__Lqngqb6jnRlNCPp/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Mid Sem Paper</a>
     </div>
   </div>
 
