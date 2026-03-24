@@ -393,7 +393,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
 </li>
      
       <li class="course-item-container">
-        <span class="course-tag">EVE/EEC 208</span> <b>Analog Systems</b>
+        <span class="course-tag">EVE / EEC 208 </span> <b>Analog Systems</b>
         <div class="project-box" style="border-left-color: #4da6ff;">
     <span class="project-title">📚 Active Course Resources</span>
      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
@@ -402,7 +402,13 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
      
-      <a href="https://drive.google.com/file/d/1MZ_lKUCFu9hK0UXtzVeF-f8u_jf7X7Ap/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 Paper</a>
+      <a href="https://drive.google.com/file/d/1MZ_lKUCFu9hK0UXtzVeF-f8u_jf7X7Ap/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 (EVE 208) Paper</a>
+      <a href="https://drive.google.com/file/d/13t2YkVf2by0tSx8a0z1HvHNQqwj1Nayp/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 (EEC 208) Paper</a>
+      <a href="https://drive.google.com/file/d/1QWN4xGhkKSlue9fOhHgvCrS8OgSZ7OZK/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Mid Sem Paper (EVE 208) Paper</a>
+      <a href="https://drive.google.com/file/d/1opV1oXSI1ypFLrvixswwgXQbOtbZnBq4/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Mid Sem Paper (EEC 208) Paper</a>
+      <a href="https://drive.google.com/file/d/1ljpapEvCeL1CxtOyT8zSjY5_FmWTiKpn/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Assignment 1 (EVE 208) Paper</a>
+      <a href="https://drive.google.com/file/d/130J3fHrGW3vMT8QBekSjFxvmrfC6F9kZ/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Assignment 1 (EEC 208) Paper</a>
+      
     </div>
   </div>
       </li>
