@@ -407,6 +407,7 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
       <a href="https://drive.google.com/file/d/1MZ_lKUCFu9hK0UXtzVeF-f8u_jf7X7Ap/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 (EVE 208) Paper</a>
       <a href="https://drive.google.com/file/d/13t2YkVf2by0tSx8a0z1HvHNQqwj1Nayp/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 (EEC 208) Paper</a>
       <a href="https://drive.google.com/file/d/14dEySUVZ8gbLd5AmcSulTuVil-wznq7e/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 2 (EVE 208) Paper</a>
+      <a href="https://drive.google.com/file/d/1d1RHLnrpXfZIwz-CbGPLMGPW0jhbn-ki/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 2 (EEC 208) Paper</a>
       
       <a href="https://drive.google.com/file/d/1QWN4xGhkKSlue9fOhHgvCrS8OgSZ7OZK/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Mid Sem (EVE 208) Paper</a>
       <a href="https://drive.google.com/file/d/1opV1oXSI1ypFLrvixswwgXQbOtbZnBq4/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Mid Sem (EEC 208) Paper</a>
