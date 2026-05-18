@@ -357,11 +357,9 @@ I am an Energy Engineer and Researcher dedicated to the harmony of complex syste
       <a href="https://drive.google.com/file/d/1b6wzQb7d2FPLwERLN7z_6pZPuuU2BUNt/view?usp=sharing" class="resource-link">Lecture 12 (Battery EV: Introduction) </a>
       <a href="https://drive.google.com/file/d/1Oav50zR0--vushML5h1up3oaTJ4JN_J3/view?usp=sharing" class="resource-link">Lecture 13 (Power Quality: Introduction) </a>
       <a href="https://drive.google.com/file/d/1rCT51HnHD3DrUk01Q45tgdYAGRrXz9Nu/view?usp=sharing" class="resource-link">Lecture 14 (Microgrid & Smartgrid: Introduction) </a>
-      <a href="https://drive.google.com/file/d/1hqFseElJByN74FiA2VsU4F-fWz2o3Qcx/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 1 Paper</a>
-      <a href="https://drive.google.com/file/d/1KAnIWr-x4j7zJzYPO2rL1qmf0dbbdK0p/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 2 Paper</a>
-      <a href="https://drive.google.com/file/d/1xeoIZAcPeGTTPMwpjib9up39PPMnwnOI/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 3 Paper</a>
-      <a href="https://drive.google.com/file/d/1_QQmDCLSJ6ZQKWWUsQbDUsbIs4YJLhIU/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz 4 Paper</a>
+      <a href="https://drive.google.com/file/d/1_QQmDCLSJ6ZQKWWUsQbDUsbIs4YJLhIU/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Quiz Paper</a>
        <a href="https://drive.google.com/file/d/1g5ty5owKQw41X13__Lqngqb6jnRlNCPp/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 Mid Sem Paper</a>
+       <a href="https://drive.google.com/file/d/1DW6P1z71jbsZoSXaYat3IrLaBn2hXBtK/view?usp=sharing" class="resource-link" style="border-color: #ff4d4d; color: #ff4d4d !important;">📝 End Sem Paper</a>
     </div>
   </div>
 
