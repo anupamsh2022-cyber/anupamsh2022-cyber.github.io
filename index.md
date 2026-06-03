@@ -214,7 +214,7 @@ title: Anupam Sharma
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qLdXot0AAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Anupam-S)
 
-I am an Energy Engineer and Researcher dedicated to the harmony of complex systems. My work exists at the intersection of **Power Systems and Cybersecurity**, where I explore the mathematical and philosophical foundations of resilience. I believe that a truly "smart" grid must not only be efficient but also robust enough to withstand the unpredictable challenges of a digital age. Beyond the circuits, I am deeply interested in how human consciousness and psychological patterns influence our interaction with technology and education.
+An Engineering consultant and interdisciplinary scholar working at the intersection of energy systems, digital resilience and human learning. With avanced degrees in both Power & Energy Systems Engineering (M.E.) and Education (M.A.Ed.), I approach grid infrastructure and cybersecurity from a unique socio-technical lens. My focus is on designing resilient, smart systems while understanding the philosophical and psychological frameworks that govern human interaction with modern technology. 
 
 <hr>
 
