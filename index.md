@@ -198,7 +198,7 @@ title: Anupam Sharma
 </div>
 
 <div class="profile-container">
-  <img src="profile.jpg" class="profile-img" alt="Anupam Sharma">
+  <img src="Anupam.jpg" class="profile-img" alt="Anupam Sharma">
   <div>
     <h1 class="name-heading">Anupam Sharma</h1>
     <h3 style="margin:5px 0 15px 0; color:#4da6ff !important; font-weight:400;">Former Assistant Professor</h3>
