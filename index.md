@@ -201,7 +201,7 @@ title: Anupam Sharma
   <img src="profile.jpg" class="profile-img" alt="Anupam Sharma">
   <div>
     <h1 class="name-heading">Anupam Sharma</h1>
-    <h3 style="margin:5px 0 15px 0; color:#4da6ff !important; font-weight:400;">Assistant Professor</h3>
+    <h3 style="margin:5px 0 15px 0; color:#4da6ff !important; font-weight:400;">Former Assistant Professor</h3>
     <div>
       <span class="tag-box">Chanakya University</span>
       <span class="tag-box">Bengaluru, India</span>
