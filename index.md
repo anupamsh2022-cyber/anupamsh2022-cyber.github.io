@@ -214,7 +214,7 @@ title: Anupam Sharma
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qLdXot0AAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Anupam-S)
 
-An Engineering consultant and interdisciplinary scholar working at the intersection of energy systems, digital resilience and human learning. With avanced degrees in both Power & Energy Systems Engineering (M.E.) and Education (M.A.Ed.), I approach grid infrastructure and cybersecurity from a unique socio-technical lens. My focus is on designing resilient, smart systems while understanding the philosophical and psychological frameworks that govern human interaction with modern technology. 
+An Engineering consultant and interdisciplinary scholar working at the intersection of energy systems, digital resilience and human learning. With advanced degrees in both Power & Energy Systems Engineering (M.E.) and Education (M.A.Ed.), I approach grid infrastructure and cybersecurity from a unique socio-technical lens. My focus is on designing resilient, smart systems while understanding the philosophical and psychological frameworks that govern human interaction with modern technology. 
 
 <hr>
 
